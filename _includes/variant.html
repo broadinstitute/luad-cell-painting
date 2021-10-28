@@ -1,0 +1,47 @@
+<div>Reference: {{ variant.reference }}</div>
+<div>Variant: {{ variant.variant }}</div>
+<div class="row">
+    <div class="col s12">
+      <ul class="tabs">
+        <li class="tab col s3"><a class="active" href="#cell-painting">Cell Painting</a></li>
+        <li class="tab col s3"><a href="#l1000">L1000</a></li>
+      </ul>
+    </div>
+    <div id="cell-painting" class="col s12">
+        <div>Prediction: 
+        {% if variant.cp_impactful %}
+        Impactful
+        {% else %}
+        Non-impactful
+        {% endif %}
+        </div>
+        <div>p-value: {{ variant.cp_pvalue }}</div>
+        <div>class: {{ variant.cp_class }}</div>
+        <img src="{{ "/assets/images/morphology" | relative_url }}/{{ variant.reference }}_{{ variant.variant }}_matrices.png" />
+        <img src="{{ "/assets/images/morphology" | relative_url }}/{{ variant.reference }}_{{ variant.variant }}_dots.png" />
+    </div>
+    <div id="l1000" class="col s12">
+        {% if variant.l1k_class %}
+            <div>Prediction: 
+            {% if variant.l1k_impactful %}
+            Impactful
+            {% else %}
+            Non-impactful
+            {% endif %}
+            </div>
+            <div>p-value: {{ variant.l1k_pvalue }}</div>
+            <div>class: {{ variant.l1k_class }}</div>
+            <img src="{{ "/assets/images/expression" | relative_url }}/{{ variant.reference }}_{{ variant.variant }}_matrices.png" />
+            <img src="{{ "/assets/images/expression" | relative_url }}/{{ variant.reference }}_{{ variant.variant }}_dots.png" />
+        {% else %}
+        Not available data for {{ variant.variant }} variant in L1000.
+        {% endif %}
+    </div>
+</div>
+<img src="{{ "/assets/images/sparkler" | relative_url }}/{{ variant.gene }}.png" />
+
+<script>
+ $(document).ready(function(){
+    $('.tabs').tabs();
+  })
+</script>

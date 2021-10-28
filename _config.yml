@@ -1,1 +1,9 @@
-theme: minima
+# theme: minima
+plugins:
+  - jekyll-datapage-generator
+page_gen-dirs: true
+page_gen:
+  - data: 'alleles'
+    template: 'gene'
+    name: 'variant'
+    dir: 'variants'

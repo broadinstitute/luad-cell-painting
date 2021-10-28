@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Functional classification
+title: Functional
 plotly: True
 ---
 {% include plot.html plot="function" %}

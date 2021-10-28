@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sparkler plot
+title: Sparkler
 plotly: True
 ---
 {% include plot.html plot="sparkler" %}

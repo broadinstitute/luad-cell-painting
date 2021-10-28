@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Impact agreement
+title: Agreement
 plotly: True
 ---
 {% include plot.html plot="impact" %}

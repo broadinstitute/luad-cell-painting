@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Phenotype strength
+title: Phenotype
 plotly: True
 ---
 {% include plot.html plot="strength" %}
