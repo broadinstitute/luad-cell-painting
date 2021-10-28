@@ -5,7 +5,7 @@
       <div class="collapsible-body">
         <div class="collection">
         {% for variant in gene.variants %}
-        <a href="{{ "variants" | relative_url }}/{{ variant.name | downcase }}/" class="collection-item">{{ variant.name }}</a>
+        <a href="{{ "/variants" | relative_url }}/{{ variant.name }}/" class="collection-item">{{ variant.name }}</a>
         {% endfor %}
         </div>
     </li>
