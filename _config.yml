@@ -2,6 +2,7 @@
 plugins:
   - jekyll-datapage-generator
 page_gen-dirs: true
+baseurl: /luad-cell-painting
 page_gen:
   - data: 'alleles'
     template: 'gene'
