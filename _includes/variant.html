@@ -5,6 +5,7 @@
       <ul class="tabs">
         <li class="tab col s3"><a class="active" href="#cell-painting">Cell Painting</a></li>
         <li class="tab col s3"><a href="#l1000">L1000</a></li>
+        <li class="tab col s3"><a href="#single-cell">Single Cell</a></li>
       </ul>
     </div>
     <div id="cell-painting" class="col s12">
@@ -36,6 +37,11 @@
         {% else %}
         Not available data for {{ variant.variant }} variant in L1000.
         {% endif %}
+    </div>
+    <div id="single-cell" class="col s12">
+      <img src="{{ "/assets/images/single-cell" | relative_url }}/{{ variant.variant }}_allele.png" />
+      <img src="{{ "/assets/images/single-cell" | relative_url }}/{{ variant.variant }}_plate.png" />
+      <img src="{{ "/assets/images/single-cell" | relative_url }}/{{ variant.variant }}_venn.png" />
     </div>
 </div>
 <img src="{{ "/assets/images/sparkler" | relative_url }}/{{ variant.gene }}.png" />
