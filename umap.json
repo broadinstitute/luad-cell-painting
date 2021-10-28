@@ -1,0 +1,3104 @@
+{
+  "data": [
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=EMPTY<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "EMPTY"
+      ],
+      "legendgroup": "EMPTY",
+      "marker": {
+        "color": "#1f77b4",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "EMPTY",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        4.857553958892822
+      ],
+      "xaxis": "x",
+      "y": [
+        8.627541542053223
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=ABCB9<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "ABCB9_REF",
+        "ABCB9_p.G443C",
+        "ABCB9_p.R281L",
+        "ABCB9_p.V140M"
+      ],
+      "legendgroup": "ABCB9",
+      "marker": {
+        "color": "#ab63fa",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "ABCB9",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        4.722464561462402,
+        5.216647624969482,
+        4.991794586181641,
+        4.571369171142578
+      ],
+      "xaxis": "x",
+      "y": [
+        8.352622032165527,
+        8.500995635986328,
+        8.94088363647461,
+        8.534987449645996
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=AKR1B1<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "AKR1B1_REF",
+        "AKR1B1_p.F252L",
+        "AKR1B1_p.P14R",
+        "AKR1B1_p.Q27K"
+      ],
+      "legendgroup": "AKR1B1",
+      "marker": {
+        "color": "#FFA15A",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "AKR1B1",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        11.535301208496094,
+        11.167970657348633,
+        10.074777603149414,
+        11.074126243591309
+      ],
+      "xaxis": "x",
+      "y": [
+        4.737438201904297,
+        4.706932544708252,
+        5.4385175704956055,
+        4.751262187957764
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=AKT1<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "AKT1_REF",
+        "AKT1_p.D323Y",
+        "AKT1_p.E17K"
+      ],
+      "legendgroup": "AKT1",
+      "marker": {
+        "color": "#19d3f3",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "AKT1",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        7.425861835479736,
+        10.410335540771484,
+        7.2085795402526855
+      ],
+      "xaxis": "x",
+      "y": [
+        6.809207916259766,
+        4.165729522705078,
+        6.015101432800293
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=ARAF<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "ARAF_REF",
+        "ARAF_p.D429A",
+        "ARAF_p.L96Q",
+        "ARAF_p.S214C",
+        "ARAF_p.S214C, p.D429A",
+        "ARAF_p.S214F",
+        "ARAF_p.S214F, p.D429A",
+        "ARAF_p.V145L"
+      ],
+      "legendgroup": "ARAF",
+      "marker": {
+        "color": "#FF6692",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "ARAF",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        2.6833081245422363,
+        2.439382553100586,
+        2.6358625888824463,
+        9.677425384521484,
+        2.4706830978393555,
+        9.493492126464844,
+        2.5402920246124268,
+        2.5861353874206543
+      ],
+      "xaxis": "x",
+      "y": [
+        0.8148822784423828,
+        0.563316822052002,
+        0.7473210096359253,
+        11.304252624511719,
+        0.5911673307418823,
+        11.077594757080078,
+        0.652122974395752,
+        0.6881738305091858
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=ATF2<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "ATF2_REF",
+        "ATF2_p.A481V",
+        "ATF2_p.K106R",
+        "ATF2_p.P70S",
+        "ATF2_p.T339A"
+      ],
+      "legendgroup": "ATF2",
+      "marker": {
+        "color": "#B6E880",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "ATF2",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        8.92966079711914,
+        7.979915618896484,
+        6.89201545715332,
+        5.512710094451904,
+        9.335514068603516
+      ],
+      "xaxis": "x",
+      "y": [
+        6.75739860534668,
+        7.396223068237305,
+        7.714569091796875,
+        8.173393249511719,
+        6.253170967102051
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=BRAF<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "BRAF_REF",
+        "BRAF_p.A762E",
+        "BRAF_p.D594H",
+        "BRAF_p.G466A",
+        "BRAF_p.G466E",
+        "BRAF_p.G466V",
+        "BRAF_p.G469S",
+        "BRAF_p.G469V",
+        "BRAF_p.H574N",
+        "BRAF_p.H574Q",
+        "BRAF_p.K601N",
+        "BRAF_p.L485S",
+        "BRAF_p.L613F",
+        "BRAF_p.N581S",
+        "BRAF_p.P367R",
+        "BRAF_p.R682W",
+        "BRAF_p.V600E",
+        "BRAF_p.W450L"
+      ],
+      "legendgroup": "BRAF",
+      "marker": {
+        "color": "#FF97FF",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "BRAF",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        5.178852081298828,
+        7.069840431213379,
+        7.352201461791992,
+        7.09449577331543,
+        7.206764221191406,
+        7.158412933349609,
+        12.235128402709961,
+        7.086653232574463,
+        2.5556159019470215,
+        11.928779602050781,
+        12.276902198791504,
+        11.984619140625,
+        7.073526382446289,
+        7.109899044036865,
+        11.95207405090332,
+        7.074209213256836,
+        12.26673412322998,
+        2.4626259803771973
+      ],
+      "xaxis": "x",
+      "y": [
+        8.388080596923828,
+        1.6974639892578125,
+        2.5271706581115723,
+        1.0511770248413086,
+        2.3841044902801514,
+        2.383073329925537,
+        -5.011932849884033,
+        1.2136446237564087,
+        0.6547805070877075,
+        -4.714216232299805,
+        -5.052903175354004,
+        -4.770664215087891,
+        1.850801706314087,
+        1.0560085773468018,
+        -4.7384796142578125,
+        2.0942485332489014,
+        -5.04286003112793,
+        0.5741473436355591
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=CASP8<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "CASP8_REF",
+        "CASP8_p.E147D"
+      ],
+      "legendgroup": "CASP8",
+      "marker": {
+        "color": "#FECB52",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "CASP8",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        12.330841064453125,
+        10.488998413085938
+      ],
+      "xaxis": "x",
+      "y": [
+        4.654414176940918,
+        5.437359809875488
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=CCND1<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "CCND1_REF",
+        "CCND1_p.E172K"
+      ],
+      "legendgroup": "CCND1",
+      "marker": {
+        "color": "#636efa",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "CCND1",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        3.1440176963806152,
+        3.06192684173584
+      ],
+      "xaxis": "x",
+      "y": [
+        9.824821472167969,
+        9.927083969116211
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=CGREF1<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "CGREF1_REF",
+        "CGREF1_p.P21L",
+        "CGREF1_p.Q286K",
+        "CGREF1_p.Q295K"
+      ],
+      "legendgroup": "CGREF1",
+      "marker": {
+        "color": "#EF553B",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "CGREF1",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        11.230554580688477,
+        7.4749345779418945,
+        11.554384231567383,
+        11.213035583496094
+      ],
+      "xaxis": "x",
+      "y": [
+        4.348091125488281,
+        6.8865509033203125,
+        3.970555543899536,
+        4.493645668029785
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=CTNNB1<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "CTNNB1_MAPK7",
+        "CTNNB1_REF.2",
+        "CTNNB1_p.F777S",
+        "CTNNB1_p.G34V",
+        "CTNNB1_p.G367V",
+        "CTNNB1_p.I140T",
+        "CTNNB1_p.S33N",
+        "CTNNB1_p.S37C",
+        "CTNNB1_p.S45F",
+        "CTNNB1_p.T41A",
+        "CTNNB1_p.V600G"
+      ],
+      "legendgroup": "CTNNB1",
+      "marker": {
+        "color": "#00cc96",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "CTNNB1",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        4.708625793457031,
+        5.291353225708008,
+        5.245321273803711,
+        4.4959917068481445,
+        4.982610702514648,
+        5.742471694946289,
+        4.465693473815918,
+        4.480311870574951,
+        4.477744102478027,
+        5.27920389175415,
+        4.808485984802246
+      ],
+      "xaxis": "x",
+      "y": [
+        11.66452407836914,
+        8.7850923538208,
+        8.815128326416016,
+        12.310176849365234,
+        8.74502944946289,
+        8.074212074279785,
+        12.350933074951172,
+        12.34922981262207,
+        12.309181213378906,
+        8.96082592010498,
+        8.670753479003906
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=DARC<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "DARC_REF",
+        "DARC_p.T211S",
+        "DARC_p.W253R"
+      ],
+      "legendgroup": "DARC",
+      "marker": {
+        "color": "#ab63fa",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "DARC",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        5.398681640625,
+        5.1290283203125,
+        5.126516342163086
+      ],
+      "xaxis": "x",
+      "y": [
+        8.879351615905762,
+        8.561156272888184,
+        8.658036231994629
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=DCAF8<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "DCAF8_REF",
+        "DCAF8_p.D570G",
+        "DCAF8_p.E102Q",
+        "DCAF8_p.E63K",
+        "DCAF8_p.G588C",
+        "DCAF8_p.P156S",
+        "DCAF8_p.R559P"
+      ],
+      "legendgroup": "DCAF8",
+      "marker": {
+        "color": "#FFA15A",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "DCAF8",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        9.789628982543945,
+        9.621023178100586,
+        9.47549819946289,
+        9.963255882263184,
+        10.721489906311035,
+        8.952810287475586,
+        10.436857223510742
+      ],
+      "xaxis": "x",
+      "y": [
+        5.2556915283203125,
+        5.286386966705322,
+        5.981796741485596,
+        5.724125385284424,
+        5.177657127380371,
+        6.5294413566589355,
+        5.2265706062316895
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=DOK1<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "DOK1_REF",
+        "DOK1_p.A127V",
+        "DOK1_p.A32T",
+        "DOK1_p.P419S",
+        "DOK1_p.S460I",
+        "DOK1_p.V393L",
+        "DOK1_p.W26C"
+      ],
+      "legendgroup": "DOK1",
+      "marker": {
+        "color": "#19d3f3",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "DOK1",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        5.844171524047852,
+        8.767024993896484,
+        5.351773262023926,
+        5.616408348083496,
+        6.5929036140441895,
+        5.741412162780762,
+        11.287070274353027
+      ],
+      "xaxis": "x",
+      "y": [
+        6.836513519287109,
+        6.128510475158691,
+        8.178705215454102,
+        7.419806957244873,
+        7.592242240905762,
+        6.946320056915283,
+        4.468485355377197
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=EGFR<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "EGFR_REF",
+        "EGFR_p.769_770insASV",
+        "EGFR_p.773_774insH",
+        "EGFR_p.774_775insHV",
+        "EGFR_p.A237Y",
+        "EGFR_p.D837A",
+        "EGFR_p.E545Q",
+        "EGFR_p.ELR746del",
+        "EGFR_p.ELREA746del",
+        "EGFR_p.ELREA746del.p.T790M",
+        "EGFR_p.G901V",
+        "EGFR_p.H1129Y",
+        "EGFR_p.K754E",
+        "EGFR_p.K754I",
+        "EGFR_p.L62R",
+        "EGFR_p.L833F",
+        "EGFR_p.L858R",
+        "EGFR_p.L861Q",
+        "EGFR_p.L907M",
+        "EGFR_p.Q1020H",
+        "EGFR_p.R1052I",
+        "EGFR_p.R222L",
+        "EGFR_p.R377S",
+        "EGFR_p.S645C",
+        "EGFR_p.S768I",
+        "EGFR_p.S921R",
+        "EGFR_p.T790M",
+        "EGFR_p.T790M, p.L858R.o",
+        "EGFR_p.V769L"
+      ],
+      "legendgroup": "EGFR",
+      "marker": {
+        "color": "#FF6692",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "EGFR",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        7.894444465637207,
+        5.827844619750977,
+        5.88533878326416,
+        5.784928798675537,
+        4.471036911010742,
+        6.314019203186035,
+        7.986247539520264,
+        8.18556022644043,
+        7.855464935302734,
+        5.739360332489014,
+        7.156764507293701,
+        8.139616966247559,
+        7.68958044052124,
+        8.093123435974121,
+        7.486126899719238,
+        7.213496208190918,
+        5.876963138580322,
+        5.8105244636535645,
+        11.770376205444336,
+        5.274590492248535,
+        11.908332824707031,
+        6.182429790496826,
+        7.0702972412109375,
+        5.759012699127197,
+        5.81486701965332,
+        11.86018180847168,
+        5.858786582946777,
+        5.69212007522583,
+        11.681885719299316
+      ],
+      "xaxis": "x",
+      "y": [
+        -0.7243046760559082,
+        0.5420135259628296,
+        3.138911247253418,
+        2.5883731842041016,
+        12.384861946105957,
+        8.288411140441895,
+        -0.6786642074584961,
+        -0.5226551294326782,
+        0.06047680974006653,
+        0.11601868271827698,
+        6.974092483520508,
+        -0.5369840860366821,
+        -0.7305127382278442,
+        -0.5953642129898071,
+        -0.6651443243026733,
+        -0.8585329651832581,
+        2.3801825046539307,
+        0.7557108402252197,
+        3.6967411041259766,
+        8.986928939819336,
+        3.5683305263519287,
+        2.402848482131958,
+        12.001224517822266,
+        -0.7193402051925659,
+        -0.6526980400085449,
+        3.70000958442688,
+        -0.7144735455513,
+        -0.22020234167575836,
+        3.7808303833007812
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=ERBB2<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "ERBB2_REF",
+        "ERBB2_p.774_775insAYVM",
+        "ERBB2_p.776_776G>VC",
+        "ERBB2_p.D845A",
+        "ERBB2_p.S310F",
+        "ERBB2_p.S418T"
+      ],
+      "legendgroup": "ERBB2",
+      "marker": {
+        "color": "#B6E880",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "ERBB2",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        5.2307515144348145,
+        6.223618030548096,
+        9.155994415283203,
+        5.7557373046875,
+        5.995488166809082,
+        4.808468818664551
+      ],
+      "xaxis": "x",
+      "y": [
+        8.510438919067383,
+        8.004780769348145,
+        5.647356033325195,
+        8.00035285949707,
+        3.3058037757873535,
+        7.962657928466797
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=FAM173B<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "FAM173B_REF",
+        "FAM173B_p.R101L",
+        "FAM173B_p.R187P"
+      ],
+      "legendgroup": "FAM173B",
+      "marker": {
+        "color": "#FF97FF",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "FAM173B",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        11.241165161132812,
+        11.520383834838867,
+        11.602302551269531
+      ],
+      "xaxis": "x",
+      "y": [
+        4.589346885681152,
+        4.368249893188477,
+        4.801941871643066
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=FBXW7<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "FBXW7_REF",
+        "FBXW7_p.D101E",
+        "FBXW7_p.D211N",
+        "FBXW7_p.P620R",
+        "FBXW7_p.V464E"
+      ],
+      "legendgroup": "FBXW7",
+      "marker": {
+        "color": "#FECB52",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "FBXW7",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        3.065298557281494,
+        3.057997465133667,
+        3.134876251220703,
+        3.0783915519714355,
+        7.412152290344238
+      ],
+      "xaxis": "x",
+      "y": [
+        1.1463450193405151,
+        1.125356912612915,
+        1.208242654800415,
+        1.1529018878936768,
+        6.646398544311523
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=FCGR3B<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "FCGR3B_REF",
+        "FCGR3B_p.A78S",
+        "FCGR3B_p.A78T",
+        "FCGR3B_p.D147H",
+        "FCGR3B_p.K179T",
+        "FCGR3B_p.L218P",
+        "FCGR3B_p.L23P"
+      ],
+      "legendgroup": "FCGR3B",
+      "marker": {
+        "color": "#636efa",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "FCGR3B",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        3.353085994720459,
+        3.656644821166992,
+        5.04229736328125,
+        3.2613697052001953,
+        3.2146637439727783,
+        3.2292985916137695,
+        3.467784881591797
+      ],
+      "xaxis": "x",
+      "y": [
+        7.891698360443115,
+        8.009557723999023,
+        8.673686981201172,
+        7.921539306640625,
+        7.893675327301025,
+        7.900876998901367,
+        7.901680946350098
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=FGFR3<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "FGFR3_REF",
+        "FGFR3_p.D280G",
+        "FGFR3_p.D617A",
+        "FGFR3_p.R399H",
+        "FGFR3_p.S779R"
+      ],
+      "legendgroup": "FGFR3",
+      "marker": {
+        "color": "#EF553B",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "FGFR3",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        5.139755725860596,
+        5.860393047332764,
+        9.360664367675781,
+        5.950782775878906,
+        4.795489311218262
+      ],
+      "xaxis": "x",
+      "y": [
+        8.240259170532227,
+        3.72652006149292,
+        5.885833263397217,
+        3.46083402633667,
+        8.617408752441406
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=GPR137B<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "GPR137B_REF",
+        "GPR137B_p.C212S",
+        "GPR137B_p.L95I",
+        "GPR137B_p.S231F",
+        "GPR137B_p.Y135N"
+      ],
+      "legendgroup": "GPR137B",
+      "marker": {
+        "color": "#00cc96",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "GPR137B",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        5.059686183929443,
+        5.053976058959961,
+        5.031869888305664,
+        5.052310466766357,
+        5.07363224029541
+      ],
+      "xaxis": "x",
+      "y": [
+        11.075078964233398,
+        11.011748313903809,
+        11.04353141784668,
+        11.059783935546875,
+        11.074430465698242
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=HAVCR2<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "HAVCR2_REF",
+        "HAVCR2_p.G86V",
+        "HAVCR2_p.L127F",
+        "HAVCR2_p.P115A",
+        "HAVCR2_p.P6S"
+      ],
+      "legendgroup": "HAVCR2",
+      "marker": {
+        "color": "#ab63fa",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "HAVCR2",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        3.9859108924865723,
+        4.894407272338867,
+        4.888916969299316,
+        4.890192031860352,
+        4.59852409362793
+      ],
+      "xaxis": "x",
+      "y": [
+        8.486283302307129,
+        8.878864288330078,
+        8.780965805053711,
+        8.861454963684082,
+        8.31536865234375
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=HRAS<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "HRAS_REF",
+        "HRAS_p.G13R",
+        "HRAS_p.Q61L"
+      ],
+      "legendgroup": "HRAS",
+      "marker": {
+        "color": "#FFA15A",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "HRAS",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        11.33788013458252,
+        10.960832595825195,
+        11.007830619812012
+      ],
+      "xaxis": "x",
+      "y": [
+        4.435863018035889,
+        4.318485260009766,
+        4.501158714294434
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=IDH2<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "IDH2_REF",
+        "IDH2_p.K130del",
+        "IDH2_p.R188W",
+        "IDH2_p.S249G"
+      ],
+      "legendgroup": "IDH2",
+      "marker": {
+        "color": "#19d3f3",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "IDH2",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        9.455397605895996,
+        6.482412338256836,
+        9.325843811035156,
+        9.396018981933594
+      ],
+      "xaxis": "x",
+      "y": [
+        6.350442409515381,
+        8.895794868469238,
+        5.99216365814209,
+        5.910172939300537
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=KEAP1<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "KEAP1_REF",
+        "KEAP1_p.A159P",
+        "KEAP1_p.A191T",
+        "KEAP1_p.D389Y",
+        "KEAP1_p.D479G",
+        "KEAP1_p.E117K",
+        "KEAP1_p.E218V",
+        "KEAP1_p.E611D",
+        "KEAP1_p.F139L",
+        "KEAP1_p.F246L",
+        "KEAP1_p.F280Y",
+        "KEAP1_p.G333C",
+        "KEAP1_p.G333S",
+        "KEAP1_p.G364C",
+        "KEAP1_p.G417E",
+        "KEAP1_p.G417R",
+        "KEAP1_p.G419W",
+        "KEAP1_p.G480W",
+        "KEAP1_p.G524C",
+        "KEAP1_p.G603W",
+        "KEAP1_p.H96L",
+        "KEAP1_p.I461V",
+        "KEAP1_p.L100P",
+        "KEAP1_p.L268P",
+        "KEAP1_p.M110I",
+        "KEAP1_p.M503K",
+        "KEAP1_p.N397del",
+        "KEAP1_p.P278R",
+        "KEAP1_p.P278S",
+        "KEAP1_p.Q284L",
+        "KEAP1_p.R204P",
+        "KEAP1_p.R260L",
+        "KEAP1_p.R261P",
+        "KEAP1_p.R272H",
+        "KEAP1_p.R272P",
+        "KEAP1_p.R320M",
+        "KEAP1_p.R320P",
+        "KEAP1_p.R415C",
+        "KEAP1_p.R460G",
+        "KEAP1_p.R470C",
+        "KEAP1_p.R470H",
+        "KEAP1_p.R470S",
+        "KEAP1_p.R601W",
+        "KEAP1_p.S102L",
+        "KEAP1_p.S144F",
+        "KEAP1_p.T142M",
+        "KEAP1_p.V155A",
+        "KEAP1_p.V99L",
+        "KEAP1_p.W497L",
+        "KEAP1_p.Y141F"
+      ],
+      "legendgroup": "KEAP1",
+      "marker": {
+        "color": "#FF6692",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "KEAP1",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        11.864429473876953,
+        10.494356155395508,
+        11.492460250854492,
+        11.223559379577637,
+        11.565644264221191,
+        11.988668441772461,
+        11.765911102294922,
+        11.923588752746582,
+        11.580582618713379,
+        11.615554809570312,
+        9.426742553710938,
+        7.446732997894287,
+        11.663118362426758,
+        12.029129028320312,
+        8.15892219543457,
+        7.309056282043457,
+        7.761780261993408,
+        8.515510559082031,
+        8.235857009887695,
+        10.559120178222656,
+        8.216407775878906,
+        8.364969253540039,
+        10.735403060913086,
+        11.336357116699219,
+        11.061027526855469,
+        7.86693000793457,
+        7.055245399475098,
+        11.414889335632324,
+        11.357528686523438,
+        11.387420654296875,
+        10.446316719055176,
+        4.8078789710998535,
+        11.10405158996582,
+        11.460323333740234,
+        11.528960227966309,
+        11.785473823547363,
+        11.419743537902832,
+        10.796823501586914,
+        8.53608226776123,
+        11.239265441894531,
+        11.206815719604492,
+        11.073558807373047,
+        7.8697614669799805,
+        11.685831069946289,
+        11.828556060791016,
+        8.5233154296875,
+        11.280126571655273,
+        11.601095199584961,
+        7.591562271118164,
+        9.216917037963867
+      ],
+      "xaxis": "x",
+      "y": [
+        6.817706108093262,
+        6.247384071350098,
+        6.349937438964844,
+        6.575305938720703,
+        6.745550155639648,
+        6.39335823059082,
+        6.733262062072754,
+        6.707035064697266,
+        6.376769065856934,
+        6.559919357299805,
+        5.916938781738281,
+        7.507696628570557,
+        6.761488914489746,
+        6.552892684936523,
+        6.947610855102539,
+        7.007952690124512,
+        7.659551620483398,
+        6.839437484741211,
+        6.45218563079834,
+        5.36224365234375,
+        7.226132392883301,
+        6.945237159729004,
+        6.571864128112793,
+        6.084323406219482,
+        6.503211498260498,
+        7.351653099060059,
+        7.929792881011963,
+        6.249422550201416,
+        6.677034378051758,
+        5.938011169433594,
+        6.863339424133301,
+        8.493419647216797,
+        6.708603858947754,
+        6.673831939697266,
+        6.505064964294434,
+        5.582345485687256,
+        6.595245361328125,
+        5.199677467346191,
+        7.087422847747803,
+        6.3607892990112305,
+        6.539311408996582,
+        6.674097537994385,
+        6.401515960693359,
+        6.701167583465576,
+        6.683062553405762,
+        7.113667964935303,
+        6.610577583312988,
+        6.404184341430664,
+        7.1153740882873535,
+        6.66886043548584
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=KRAS<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "KRAS_REF",
+        "KRAS_p.D33E",
+        "KRAS_p.G12A",
+        "KRAS_p.G12C",
+        "KRAS_p.G12D",
+        "KRAS_p.G12F",
+        "KRAS_p.G12R",
+        "KRAS_p.G12S",
+        "KRAS_p.G12V",
+        "KRAS_p.G12Y",
+        "KRAS_p.G13C",
+        "KRAS_p.G13D",
+        "KRAS_p.G13V",
+        "KRAS_p.Q61L"
+      ],
+      "legendgroup": "KRAS",
+      "marker": {
+        "color": "#B6E880",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "KRAS",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        -5.559031963348389,
+        -6.0197319984436035,
+        -6.7966203689575195,
+        -7.197221755981445,
+        -6.380046844482422,
+        -7.09955358505249,
+        -6.179479598999023,
+        -6.999756813049316,
+        -7.109739303588867,
+        -7.28555965423584,
+        -7.056540489196777,
+        6.097162246704102,
+        -6.848550796508789,
+        -5.555651664733887
+      ],
+      "xaxis": "x",
+      "y": [
+        14.862210273742676,
+        14.517034530639648,
+        13.53717041015625,
+        13.381877899169922,
+        14.201751708984375,
+        13.812259674072266,
+        14.389984130859375,
+        13.322135925292969,
+        13.61973762512207,
+        13.305323600769043,
+        13.423970222473145,
+        3.3392744064331055,
+        13.756265640258789,
+        14.866878509521484
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=MAP2K1<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "MAP2K1_REF",
+        "MAP2K1_p.C121S",
+        "MAP2K1_p.EI102del",
+        "MAP2K1_p.F53L",
+        "MAP2K1_p.K57N",
+        "MAP2K1_p.M146I",
+        "MAP2K1_p.S331R"
+      ],
+      "legendgroup": "MAP2K1",
+      "marker": {
+        "color": "#FF97FF",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "MAP2K1",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        11.179658889770508,
+        11.013887405395508,
+        11.133350372314453,
+        11.618387222290039,
+        9.599434852600098,
+        11.14681625366211,
+        10.920082092285156
+      ],
+      "xaxis": "x",
+      "y": [
+        4.938790321350098,
+        4.64695930480957,
+        4.8121747970581055,
+        4.80472469329834,
+        5.820754051208496,
+        4.719174385070801,
+        5.14688777923584
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=MAPK7<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "MAPK7_REF",
+        "MAPK7_p.D46N",
+        "MAPK7_p.L806R",
+        "MAPK7_p.T28I"
+      ],
+      "legendgroup": "MAPK7",
+      "marker": {
+        "color": "#FECB52",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "MAPK7",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        7.387663841247559,
+        6.144421577453613,
+        7.4126176834106445,
+        6.6973114013671875
+      ],
+      "xaxis": "x",
+      "y": [
+        7.113479137420654,
+        7.911205291748047,
+        7.02108097076416,
+        7.344642639160156
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=MAX<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "MAX_REF",
+        "MAX_p.R35L",
+        "MAX_p.R60del"
+      ],
+      "legendgroup": "MAX",
+      "marker": {
+        "color": "#636efa",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "MAX",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        4.644108772277832,
+        11.814862251281738,
+        12.292387962341309
+      ],
+      "xaxis": "x",
+      "y": [
+        10.61334228515625,
+        5.118694305419922,
+        4.938406944274902
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=MDM2<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "MDM2_REF",
+        "MDM2_p.E421Q",
+        "MDM2_p.S221C"
+      ],
+      "legendgroup": "MDM2",
+      "marker": {
+        "color": "#EF553B",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "MDM2",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        2.402529239654541,
+        2.289161205291748,
+        12.15780258178711
+      ],
+      "xaxis": "x",
+      "y": [
+        10.58383560180664,
+        10.695005416870117,
+        4.2907257080078125
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=MET<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "MET_REF",
+        "MET_ex14del",
+        "MET_p.E1314G",
+        "MET_p.F1341L",
+        "MET_p.H644N",
+        "MET_p.K2N",
+        "MET_p.M1160L",
+        "MET_p.S441C",
+        "MET_p.Y1003F",
+        "MET_p.Y1235H"
+      ],
+      "legendgroup": "MET",
+      "marker": {
+        "color": "#00cc96",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "MET",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        5.499331474304199,
+        6.0524444580078125,
+        5.503111839294434,
+        5.935131072998047,
+        6.327190399169922,
+        6.414331436157227,
+        5.731760025024414,
+        5.654891014099121,
+        5.181524276733398,
+        6.6920061111450195
+      ],
+      "xaxis": "x",
+      "y": [
+        8.209096908569336,
+        7.6368913650512695,
+        8.16257095336914,
+        7.979816436767578,
+        7.717452049255371,
+        7.745499610900879,
+        8.081147193908691,
+        8.119878768920898,
+        8.422088623046875,
+        7.376834869384766
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=MYC<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "MYC_REF",
+        "MYC_p.E366Q",
+        "MYC_p.N215I"
+      ],
+      "legendgroup": "MYC",
+      "marker": {
+        "color": "#ab63fa",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "MYC",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        17.129417419433594,
+        17.126007080078125,
+        17.137178421020508
+      ],
+      "xaxis": "x",
+      "y": [
+        -14.136070251464844,
+        -14.132705688476562,
+        -14.143836975097656
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=NFE2L2<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "NFE2L2_REF",
+        "NFE2L2_p.T80K"
+      ],
+      "legendgroup": "NFE2L2",
+      "marker": {
+        "color": "#FFA15A",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "NFE2L2",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        -6.487741470336914,
+        -6.4808526039123535
+      ],
+      "xaxis": "x",
+      "y": [
+        2.5053493976593018,
+        2.344727039337158
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=NRAS<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "NRAS_REF",
+        "NRAS_p.Q61L"
+      ],
+      "legendgroup": "NRAS",
+      "marker": {
+        "color": "#19d3f3",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "NRAS",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        -5.551217079162598,
+        -7.375662803649902
+      ],
+      "xaxis": "x",
+      "y": [
+        14.867412567138672,
+        14.012252807617188
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=PIK3CA<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "PIK3CA_REF",
+        "PIK3CA_p.123_124MP>IA",
+        "PIK3CA_p.E453Q",
+        "PIK3CA_p.E542K",
+        "PIK3CA_p.E545K",
+        "PIK3CA_p.E600K",
+        "PIK3CA_p.E726K",
+        "PIK3CA_p.H1047R",
+        "PIK3CA_p.L699M",
+        "PIK3CA_p.Q137L",
+        "PIK3CA_p.Q296E",
+        "PIK3CA_p.R108H"
+      ],
+      "legendgroup": "PIK3CA",
+      "marker": {
+        "color": "#FF6692",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "PIK3CA",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        6.559889793395996,
+        7.197701454162598,
+        7.721580505371094,
+        6.907649517059326,
+        7.675219535827637,
+        6.870419979095459,
+        5.62272834777832,
+        7.071709632873535,
+        6.9003825187683105,
+        6.965886116027832,
+        7.325263977050781,
+        7.004444122314453
+      ],
+      "xaxis": "x",
+      "y": [
+        7.058287620544434,
+        6.040921688079834,
+        6.108765602111816,
+        5.830048084259033,
+        5.886599540710449,
+        6.540256500244141,
+        7.95120906829834,
+        5.848819255828857,
+        7.447937488555908,
+        6.882695198059082,
+        6.144861221313477,
+        6.3654022216796875
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=PIK3R3<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "PIK3R3_REF",
+        "PIK3R3_p.F380L",
+        "PIK3R3_p.M295T",
+        "PIK3R3_p.P127L",
+        "PIK3R3_p.R245C",
+        "PIK3R3_p.S408R"
+      ],
+      "legendgroup": "PIK3R3",
+      "marker": {
+        "color": "#B6E880",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "PIK3R3",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        13.310619354248047,
+        10.72125244140625,
+        13.208433151245117,
+        13.122873306274414,
+        13.209836959838867,
+        13.077168464660645
+      ],
+      "xaxis": "x",
+      "y": [
+        5.347162246704102,
+        5.414324760437012,
+        5.2665815353393555,
+        5.227118492126465,
+        5.300854682922363,
+        5.254672050476074
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=PPP2R1A<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "PPP2R1A_REF",
+        "PPP2R1A_p.A541G",
+        "PPP2R1A_p.C148F",
+        "PPP2R1A_p.C329F",
+        "PPP2R1A_p.Q372L",
+        "PPP2R1A_p.R183W",
+        "PPP2R1A_p.R258H",
+        "PPP2R1A_p.R46S",
+        "PPP2R1A_p.V229L",
+        "PPP2R1A_p.W140C"
+      ],
+      "legendgroup": "PPP2R1A",
+      "marker": {
+        "color": "#FF97FF",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "PPP2R1A",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        10.028894424438477,
+        9.154803276062012,
+        10.040412902832031,
+        10.834153175354004,
+        9.093698501586914,
+        9.466301918029785,
+        9.804967880249023,
+        11.221025466918945,
+        9.342382431030273,
+        9.475860595703125
+      ],
+      "xaxis": "x",
+      "y": [
+        5.546753883361816,
+        5.702507019042969,
+        5.7367353439331055,
+        4.856204509735107,
+        6.331514835357666,
+        6.229804992675781,
+        5.950071334838867,
+        4.488069534301758,
+        5.862598419189453,
+        6.113729476928711
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=PTEN<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "PTEN_REF",
+        "PTEN_p.H123Y",
+        "PTEN_p.M35I"
+      ],
+      "legendgroup": "PTEN",
+      "marker": {
+        "color": "#FECB52",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "PTEN",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        13.742350578308105,
+        10.674619674682617,
+        10.976049423217773
+      ],
+      "xaxis": "x",
+      "y": [
+        5.487015724182129,
+        5.345322608947754,
+        4.614806652069092
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=RAF1<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "RAF1_REF",
+        "RAF1_p.G14S",
+        "RAF1_p.S259F"
+      ],
+      "legendgroup": "RAF1",
+      "marker": {
+        "color": "#636efa",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "RAF1",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        6.983470916748047,
+        6.971696376800537,
+        2.3194589614868164
+      ],
+      "xaxis": "x",
+      "y": [
+        2.146761417388916,
+        1.4155311584472656,
+        0.4441114664077759
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=RARA<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "RARA_REF",
+        "RARA_p.D256Y",
+        "RARA_p.F286T",
+        "RARA_p.M284I",
+        "RARA_p.P20S",
+        "RARA_p.P29T",
+        "RARA_p.S229R"
+      ],
+      "legendgroup": "RARA",
+      "marker": {
+        "color": "#EF553B",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "RARA",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        9.38643741607666,
+        10.833267211914062,
+        9.190523147583008,
+        9.813719749450684,
+        9.361204147338867,
+        9.377534866333008,
+        9.304691314697266
+      ],
+      "xaxis": "x",
+      "y": [
+        7.904562473297119,
+        4.515564918518066,
+        6.35279655456543,
+        6.384888648986816,
+        7.765866279602051,
+        7.772956848144531,
+        7.690657615661621
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=RB1<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "RB1_REF",
+        "RB1_p.A772S",
+        "RB1_p.E398L",
+        "RB1_p.Y756C"
+      ],
+      "legendgroup": "RB1",
+      "marker": {
+        "color": "#00cc96",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "RB1",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        6.866142272949219,
+        7.595454692840576,
+        8.18978500366211,
+        7.349353790283203
+      ],
+      "xaxis": "x",
+      "y": [
+        7.246311664581299,
+        7.501655101776123,
+        6.406301975250244,
+        6.624117851257324
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=RBM10<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "RBM10_REF",
+        "RBM10_p.E4K",
+        "RBM10_p.G153C",
+        "RBM10_p.I316F",
+        "RBM10_p.Q416L",
+        "RBM10_p.W658Y",
+        "RBM10_p.Y580F"
+      ],
+      "legendgroup": "RBM10",
+      "marker": {
+        "color": "#ab63fa",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "RBM10",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        6.969298839569092,
+        6.881840705871582,
+        7.012504577636719,
+        5.583841800689697,
+        6.985115051269531,
+        5.171381950378418,
+        6.874739170074463
+      ],
+      "xaxis": "x",
+      "y": [
+        8.654924392700195,
+        8.553531646728516,
+        8.596491813659668,
+        8.44108772277832,
+        8.65747356414795,
+        8.64017105102539,
+        8.411985397338867
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=RBM45<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "RBM45_REF",
+        "RBM45_p.A8T",
+        "RBM45_p.D117N",
+        "RBM45_p.D434Y",
+        "RBM45_p.E216K",
+        "RBM45_p.M126I",
+        "RBM45_p.R81S"
+      ],
+      "legendgroup": "RBM45",
+      "marker": {
+        "color": "#FFA15A",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "RBM45",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        12.4290771484375,
+        8.483938217163086,
+        8.324847221374512,
+        11.679442405700684,
+        8.314380645751953,
+        12.269762992858887,
+        10.478498458862305
+      ],
+      "xaxis": "x",
+      "y": [
+        3.1241180896759033,
+        6.388367652893066,
+        8.200599670410156,
+        3.8322272300720215,
+        8.176660537719727,
+        3.3321423530578613,
+        4.987091064453125
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=RIT1<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "RIT1_REF",
+        "RIT1_p.A192T",
+        "RIT1_p.A192T.unin",
+        "RIT1_p.A77P",
+        "RIT1_p.F82L",
+        "RIT1_p.K23E",
+        "RIT1_p.M90I",
+        "RIT1_p.Q40L",
+        "RIT1_p.R122L",
+        "RIT1_p.T76insTDLT",
+        "RIT1_p.TA83del"
+      ],
+      "legendgroup": "RIT1",
+      "marker": {
+        "color": "#19d3f3",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "RIT1",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        7.877519130706787,
+        7.18104887008667,
+        7.583880424499512,
+        7.166359901428223,
+        7.713377952575684,
+        7.235934257507324,
+        6.712305068969727,
+        6.065125465393066,
+        7.6492815017700195,
+        8.178681373596191,
+        6.362174034118652
+      ],
+      "xaxis": "x",
+      "y": [
+        4.198755264282227,
+        4.2234392166137695,
+        4.287450790405273,
+        4.13094425201416,
+        4.441605567932129,
+        4.045201301574707,
+        3.658571481704712,
+        8.020980834960938,
+        4.249814987182617,
+        3.9869532585144043,
+        3.5198352336883545
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=SERPINB5<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "SERPINB5_REF",
+        "SERPINB5_p.A165T",
+        "SERPINB5_p.A42F",
+        "SERPINB5_p.A7T",
+        "SERPINB5_p.D141A",
+        "SERPINB5_p.G142V",
+        "SERPINB5_p.I159S",
+        "SERPINB5_p.T37I"
+      ],
+      "legendgroup": "SERPINB5",
+      "marker": {
+        "color": "#FF6692",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "SERPINB5",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        11.162044525146484,
+        10.910409927368164,
+        10.97917366027832,
+        11.587388038635254,
+        11.770758628845215,
+        11.473987579345703,
+        11.686338424682617,
+        11.229438781738281
+      ],
+      "xaxis": "x",
+      "y": [
+        4.059246063232422,
+        3.3277952671051025,
+        3.4238944053649902,
+        4.2266387939453125,
+        4.575572490692139,
+        3.811445713043213,
+        3.917337417602539,
+        3.8769702911376953
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=STC2<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "STC2_REF",
+        "STC2_p.A188V",
+        "STC2_p.D36Y",
+        "STC2_p.G283R",
+        "STC2_p.K163R",
+        "STC2_p.M10V",
+        "STC2_p.N59I",
+        "STC2_p.R236S",
+        "STC2_p.R5W"
+      ],
+      "legendgroup": "STC2",
+      "marker": {
+        "color": "#B6E880",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "STC2",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        9.258896827697754,
+        8.455284118652344,
+        8.430794715881348,
+        8.440933227539062,
+        8.434982299804688,
+        8.412214279174805,
+        8.437896728515625,
+        8.488445281982422,
+        9.071084976196289
+      ],
+      "xaxis": "x",
+      "y": [
+        6.587522506713867,
+        9.272195816040039,
+        9.312933921813965,
+        9.211085319519043,
+        9.166717529296875,
+        9.128177642822266,
+        9.31566047668457,
+        9.09714126586914,
+        6.581139087677002
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=STK11<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "STK11_REF",
+        "STK11_p.D176A",
+        "STK11_p.D176H",
+        "STK11_p.D194Y",
+        "STK11_p.D194Y.unin.fs",
+        "STK11_p.G242W",
+        "STK11_p.G251F",
+        "STK11_p.G251V",
+        "STK11_p.G56V",
+        "STK11_p.G56W",
+        "STK11_p.H168R",
+        "STK11_p.K78E",
+        "STK11_p.L245F",
+        "STK11_p.N181I",
+        "STK11_p.N181Y",
+        "STK11_p.P221L",
+        "STK11_p.S216F",
+        "STK11_p.W239C"
+      ],
+      "legendgroup": "STK11",
+      "marker": {
+        "color": "#FF97FF",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "STK11",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        11.176782608032227,
+        11.095890045166016,
+        8.26072883605957,
+        8.282852172851562,
+        10.87814712524414,
+        8.540424346923828,
+        10.872698783874512,
+        10.820930480957031,
+        10.84208869934082,
+        8.343137741088867,
+        10.76949691772461,
+        7.614498138427734,
+        10.920455932617188,
+        8.5302734375,
+        7.939311981201172,
+        10.814495086669922,
+        8.125090599060059,
+        10.789223670959473
+      ],
+      "xaxis": "x",
+      "y": [
+        12.348577499389648,
+        12.15141487121582,
+        6.6407670974731445,
+        6.98293924331665,
+        11.796567916870117,
+        6.409801006317139,
+        11.778986930847168,
+        11.860193252563477,
+        11.787055969238281,
+        6.795279502868652,
+        12.061027526855469,
+        7.5207109451293945,
+        11.876459121704102,
+        6.500420570373535,
+        6.366506576538086,
+        11.84214973449707,
+        6.727497100830078,
+        12.186902046203613
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=TPK1<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "TPK1_REF",
+        "TPK1_p.D29Y",
+        "TPK1_p.E81Q",
+        "TPK1_p.G48C",
+        "TPK1_p.K111M",
+        "TPK1_p.L185I",
+        "TPK1_p.P152T",
+        "TPK1_p.T205S",
+        "TPK1_p.T213S"
+      ],
+      "legendgroup": "TPK1",
+      "marker": {
+        "color": "#FECB52",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "TPK1",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        11.840933799743652,
+        11.281164169311523,
+        11.390177726745605,
+        11.522056579589844,
+        11.59561824798584,
+        11.704076766967773,
+        11.515823364257812,
+        10.957770347595215,
+        11.679088592529297
+      ],
+      "xaxis": "x",
+      "y": [
+        3.8537240028381348,
+        4.780497074127197,
+        4.0972900390625,
+        4.787103652954102,
+        3.894340991973877,
+        3.7488837242126465,
+        3.8894152641296387,
+        4.716509819030762,
+        4.020261764526367
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=U2AF1<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "U2AF1_REF",
+        "U2AF1_p.S34F"
+      ],
+      "legendgroup": "U2AF1",
+      "marker": {
+        "color": "#636efa",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "U2AF1",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        10.690971374511719,
+        5.8710527420043945
+      ],
+      "xaxis": "x",
+      "y": [
+        5.146770477294922,
+        8.31178092956543
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=ZBTB24<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "ZBTB24_REF",
+        "ZBTB24_p.G568C",
+        "ZBTB24_p.G693S",
+        "ZBTB24_p.K123M",
+        "ZBTB24_p.M78I",
+        "ZBTB24_p.Q669R"
+      ],
+      "legendgroup": "ZBTB24",
+      "marker": {
+        "color": "#EF553B",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "ZBTB24",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        7.110404968261719,
+        8.531194686889648,
+        8.151247024536133,
+        8.177846908569336,
+        7.843624114990234,
+        8.256587982177734
+      ],
+      "xaxis": "x",
+      "y": [
+        7.064149856567383,
+        6.4801859855651855,
+        6.309141159057617,
+        6.658524513244629,
+        6.651837348937988,
+        6.875890731811523
+      ],
+      "yaxis": "y"
+    },
+    {
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Gene=ZNF597<br>x=%{x}<br>y=%{y}<extra></extra>",
+      "hovertext": [
+        "ZNF597_REF",
+        "ZNF597_p.F16L",
+        "ZNF597_p.L283V",
+        "ZNF597_p.R247T",
+        "ZNF597_p.V21L"
+      ],
+      "legendgroup": "ZNF597",
+      "marker": {
+        "color": "#00cc96",
+        "size": 8,
+        "symbol": "circle"
+      },
+      "mode": "markers",
+      "name": "ZNF597",
+      "orientation": "v",
+      "showlegend": true,
+      "type": "scatter",
+      "x": [
+        11.307838439941406,
+        11.78821849822998,
+        11.09553337097168,
+        4.970267295837402,
+        11.356430053710938
+      ],
+      "xaxis": "x",
+      "y": [
+        4.089034557342529,
+        3.6718268394470215,
+        4.592076301574707,
+        8.110054969787598,
+        4.196044921875
+      ],
+      "yaxis": "y"
+    }
+  ],
+  "layout": {
+    "height": 800,
+    "legend": {
+      "title": {
+        "text": "Gene"
+      },
+      "tracegroupgap": 0
+    },
+    "margin": {
+      "t": 60
+    },
+    "template": {
+      "data": {
+        "bar": [
+          {
+            "error_x": {
+              "color": "#2a3f5f"
+            },
+            "error_y": {
+              "color": "#2a3f5f"
+            },
+            "marker": {
+              "line": {
+                "color": "#E5ECF6",
+                "width": 0.5
+              },
+              "pattern": {
+                "fillmode": "overlay",
+                "size": 10,
+                "solidity": 0.2
+              }
+            },
+            "type": "bar"
+          }
+        ],
+        "barpolar": [
+          {
+            "marker": {
+              "line": {
+                "color": "#E5ECF6",
+                "width": 0.5
+              },
+              "pattern": {
+                "fillmode": "overlay",
+                "size": 10,
+                "solidity": 0.2
+              }
+            },
+            "type": "barpolar"
+          }
+        ],
+        "carpet": [
+          {
+            "aaxis": {
+              "endlinecolor": "#2a3f5f",
+              "gridcolor": "white",
+              "linecolor": "white",
+              "minorgridcolor": "white",
+              "startlinecolor": "#2a3f5f"
+            },
+            "baxis": {
+              "endlinecolor": "#2a3f5f",
+              "gridcolor": "white",
+              "linecolor": "white",
+              "minorgridcolor": "white",
+              "startlinecolor": "#2a3f5f"
+            },
+            "type": "carpet"
+          }
+        ],
+        "choropleth": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "type": "choropleth"
+          }
+        ],
+        "contour": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "contour"
+          }
+        ],
+        "contourcarpet": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "type": "contourcarpet"
+          }
+        ],
+        "heatmap": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "heatmap"
+          }
+        ],
+        "heatmapgl": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "heatmapgl"
+          }
+        ],
+        "histogram": [
+          {
+            "marker": {
+              "pattern": {
+                "fillmode": "overlay",
+                "size": 10,
+                "solidity": 0.2
+              }
+            },
+            "type": "histogram"
+          }
+        ],
+        "histogram2d": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "histogram2d"
+          }
+        ],
+        "histogram2dcontour": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "histogram2dcontour"
+          }
+        ],
+        "mesh3d": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "type": "mesh3d"
+          }
+        ],
+        "parcoords": [
+          {
+            "line": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "parcoords"
+          }
+        ],
+        "pie": [
+          {
+            "automargin": true,
+            "type": "pie"
+          }
+        ],
+        "scatter": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scatter"
+          }
+        ],
+        "scatter3d": [
+          {
+            "line": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scatter3d"
+          }
+        ],
+        "scattercarpet": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scattercarpet"
+          }
+        ],
+        "scattergeo": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scattergeo"
+          }
+        ],
+        "scattergl": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scattergl"
+          }
+        ],
+        "scattermapbox": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scattermapbox"
+          }
+        ],
+        "scatterpolar": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scatterpolar"
+          }
+        ],
+        "scatterpolargl": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scatterpolargl"
+          }
+        ],
+        "scatterternary": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scatterternary"
+          }
+        ],
+        "surface": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "surface"
+          }
+        ],
+        "table": [
+          {
+            "cells": {
+              "fill": {
+                "color": "#EBF0F8"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "header": {
+              "fill": {
+                "color": "#C8D4E3"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "type": "table"
+          }
+        ]
+      },
+      "layout": {
+        "annotationdefaults": {
+          "arrowcolor": "#2a3f5f",
+          "arrowhead": 0,
+          "arrowwidth": 1
+        },
+        "autotypenumbers": "strict",
+        "coloraxis": {
+          "colorbar": {
+            "outlinewidth": 0,
+            "ticks": ""
+          }
+        },
+        "colorscale": {
+          "diverging": [
+            [
+              0,
+              "#8e0152"
+            ],
+            [
+              0.1,
+              "#c51b7d"
+            ],
+            [
+              0.2,
+              "#de77ae"
+            ],
+            [
+              0.3,
+              "#f1b6da"
+            ],
+            [
+              0.4,
+              "#fde0ef"
+            ],
+            [
+              0.5,
+              "#f7f7f7"
+            ],
+            [
+              0.6,
+              "#e6f5d0"
+            ],
+            [
+              0.7,
+              "#b8e186"
+            ],
+            [
+              0.8,
+              "#7fbc41"
+            ],
+            [
+              0.9,
+              "#4d9221"
+            ],
+            [
+              1,
+              "#276419"
+            ]
+          ],
+          "sequential": [
+            [
+              0.0,
+              "#0d0887"
+            ],
+            [
+              0.1111111111111111,
+              "#46039f"
+            ],
+            [
+              0.2222222222222222,
+              "#7201a8"
+            ],
+            [
+              0.3333333333333333,
+              "#9c179e"
+            ],
+            [
+              0.4444444444444444,
+              "#bd3786"
+            ],
+            [
+              0.5555555555555556,
+              "#d8576b"
+            ],
+            [
+              0.6666666666666666,
+              "#ed7953"
+            ],
+            [
+              0.7777777777777778,
+              "#fb9f3a"
+            ],
+            [
+              0.8888888888888888,
+              "#fdca26"
+            ],
+            [
+              1.0,
+              "#f0f921"
+            ]
+          ],
+          "sequentialminus": [
+            [
+              0.0,
+              "#0d0887"
+            ],
+            [
+              0.1111111111111111,
+              "#46039f"
+            ],
+            [
+              0.2222222222222222,
+              "#7201a8"
+            ],
+            [
+              0.3333333333333333,
+              "#9c179e"
+            ],
+            [
+              0.4444444444444444,
+              "#bd3786"
+            ],
+            [
+              0.5555555555555556,
+              "#d8576b"
+            ],
+            [
+              0.6666666666666666,
+              "#ed7953"
+            ],
+            [
+              0.7777777777777778,
+              "#fb9f3a"
+            ],
+            [
+              0.8888888888888888,
+              "#fdca26"
+            ],
+            [
+              1.0,
+              "#f0f921"
+            ]
+          ]
+        },
+        "colorway": [
+          "#636efa",
+          "#EF553B",
+          "#00cc96",
+          "#ab63fa",
+          "#FFA15A",
+          "#19d3f3",
+          "#FF6692",
+          "#B6E880",
+          "#FF97FF",
+          "#FECB52"
+        ],
+        "font": {
+          "color": "#2a3f5f"
+        },
+        "geo": {
+          "bgcolor": "white",
+          "lakecolor": "white",
+          "landcolor": "#E5ECF6",
+          "showlakes": true,
+          "showland": true,
+          "subunitcolor": "white"
+        },
+        "hoverlabel": {
+          "align": "left"
+        },
+        "hovermode": "closest",
+        "mapbox": {
+          "style": "light"
+        },
+        "paper_bgcolor": "white",
+        "plot_bgcolor": "#E5ECF6",
+        "polar": {
+          "angularaxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          },
+          "bgcolor": "#E5ECF6",
+          "radialaxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          }
+        },
+        "scene": {
+          "xaxis": {
+            "backgroundcolor": "#E5ECF6",
+            "gridcolor": "white",
+            "gridwidth": 2,
+            "linecolor": "white",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "white"
+          },
+          "yaxis": {
+            "backgroundcolor": "#E5ECF6",
+            "gridcolor": "white",
+            "gridwidth": 2,
+            "linecolor": "white",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "white"
+          },
+          "zaxis": {
+            "backgroundcolor": "#E5ECF6",
+            "gridcolor": "white",
+            "gridwidth": 2,
+            "linecolor": "white",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "white"
+          }
+        },
+        "shapedefaults": {
+          "line": {
+            "color": "#2a3f5f"
+          }
+        },
+        "ternary": {
+          "aaxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          },
+          "baxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          },
+          "bgcolor": "#E5ECF6",
+          "caxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          }
+        },
+        "title": {
+          "x": 0.05
+        },
+        "xaxis": {
+          "automargin": true,
+          "gridcolor": "white",
+          "linecolor": "white",
+          "ticks": "",
+          "title": {
+            "standoff": 15
+          },
+          "zerolinecolor": "white",
+          "zerolinewidth": 2
+        },
+        "yaxis": {
+          "automargin": true,
+          "gridcolor": "white",
+          "linecolor": "white",
+          "ticks": "",
+          "title": {
+            "standoff": 15
+          },
+          "zerolinecolor": "white",
+          "zerolinewidth": 2
+        }
+      }
+    },
+    "width": 800,
+    "xaxis": {
+      "anchor": "y",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "title": {
+        "text": "x"
+      }
+    },
+    "yaxis": {
+      "anchor": "x",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "title": {
+        "text": "y"
+      }
+    }
+  }
+}
