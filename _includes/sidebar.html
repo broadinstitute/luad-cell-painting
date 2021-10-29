@@ -1,11 +1,14 @@
 <ul class="collapsible">
     {% for gene in site.data.navigation %}
-    <li>
+    <li class="{% if page.url contains gene.name %}active{% endif %}">
       <div class="collapsible-header">{{ gene.name }}</div>
       <div class="collapsible-body">
         <div class="collection">
         {% for variant in gene.variants %}
-        <a href="{{ "/variants" | relative_url }}/{{ variant.name }}/" class="collection-item">{{ variant.name }}</a>
+        <a href="{{ "/variants" | relative_url }}/{{ variant.name }}/"
+           class="collection-item {% if page.url contains variant.name %}active{% endif %}">
+           {{ variant.name }}
+        </a>
         {% endfor %}
         </div>
     </li>
