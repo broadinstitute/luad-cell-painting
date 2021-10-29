@@ -1,43 +1,68 @@
-<div>Reference: {{ variant.reference }}</div>
-<div>Variant: {{ variant.variant }}</div>
+<h2 class="center-align">{{ variant.variant }}</h2>
+<h5 class="left-align">{{ variant.reference }}</h5>
+<table class="striped highlight">
+  <thead>
+    <tr>
+        <th>Profile</th>
+        <th>Prediction</th>
+        <th>Class</th>
+        <th>p-value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Cell Painting</td>
+      <td> 
+      {% if variant.cp_impactful %}
+      Impactful
+      {% else %}
+      Non-impactful
+      {% endif %}
+      </td>
+      <td>{{ variant.cp_class }}</td>
+      <td>{{ variant.cp_pvalue }}</td>
+    </tr>
+    {% if variant.l1k_class %}
+    <tr>
+      <td>L1000</td>
+      <td> 
+      {% if variant.l1k_impactful %}
+      Impactful
+      {% else %}
+      Non-impactful
+      {% endif %}
+      </td>
+      <td>{{ variant.l1k_class }}</td>
+      <td>{{ variant.l1k_pvalue }}</td>
+    </tr>
+    {% endif %}
+  </tbody>
+</table>
+{% if variant.l1k_class == null %}
+<div class="card-panel red white-text col s5">
+L1000 data not available
+</div>
+{% endif %}
 <div class="row">
     <div class="col s12">
       <ul class="tabs">
         <li class="tab col s3"><a class="active" href="#cell-painting">Cell Painting</a></li>
+        {% if variant.l1k_class %}
         <li class="tab col s3"><a href="#l1000">L1000</a></li>
+        {% endif %}
         <li class="tab col s3"><a href="#single-cell">Single Cell</a></li>
       </ul>
     </div>
     <div id="cell-painting" class="col s12">
-        <div>Prediction: 
-        {% if variant.cp_impactful %}
-        Impactful
-        {% else %}
-        Non-impactful
-        {% endif %}
-        </div>
-        <div>p-value: {{ variant.cp_pvalue }}</div>
-        <div>class: {{ variant.cp_class }}</div>
         <img src="{{ "/assets/images/morphology" | relative_url }}/{{ variant.reference }}_{{ variant.variant }}_matrices.png" />
         <img src="{{ "/assets/images/morphology" | relative_url }}/{{ variant.reference }}_{{ variant.variant }}_dots.png" />
     </div>
+    {% if variant.l1k_class %}
     <div id="l1000" class="col s12">
-        {% if variant.l1k_class %}
-            <div>Prediction: 
-            {% if variant.l1k_impactful %}
-            Impactful
-            {% else %}
-            Non-impactful
-            {% endif %}
-            </div>
-            <div>p-value: {{ variant.l1k_pvalue }}</div>
-            <div>class: {{ variant.l1k_class }}</div>
-            <img src="{{ "/assets/images/expression" | relative_url }}/{{ variant.reference }}_{{ variant.variant }}_matrices.png" />
-            <img src="{{ "/assets/images/expression" | relative_url }}/{{ variant.reference }}_{{ variant.variant }}_dots.png" />
-        {% else %}
-        Not available data for {{ variant.variant }} variant in L1000.
-        {% endif %}
+        <img src="{{ "/assets/images/expression" | relative_url }}/{{ variant.reference }}_{{ variant.variant }}_matrices.png" />
+        <img src="{{ "/assets/images/expression" | relative_url }}/{{ variant.reference }}_{{ variant.variant }}_dots.png" />
     </div>
+    {% endif %}
     <div id="single-cell" class="col s12">
       <img src="{{ "/assets/images/single-cell" | relative_url }}/{{ variant.variant }}_allele.png" />
       <img src="{{ "/assets/images/single-cell" | relative_url }}/{{ variant.variant }}_plate.png" />
