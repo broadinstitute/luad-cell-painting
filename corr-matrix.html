@@ -1,0 +1,13 @@
+---
+layout: morpheus
+title: Replicate correlation
+---
+<div id="vis"></div>
+<script type="text/javascript">
+    fetch('{{ "/assets/morpheus/375.json" | relative_url }}')
+        .then(response => response.json())
+        .then(function(json) {
+            json.el = $('#vis');
+            new morpheus.HeatMap(json);
+        })
+</script>
