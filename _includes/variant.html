@@ -54,13 +54,17 @@ L1000 data not available
       </ul>
     </div>
     <div id="cell-painting" class="col s12">
-        <img src="{{ "/assets/images/morphology" | relative_url }}/{{ variant.reference }}_{{ variant.variant }}_matrices.png" />
-        <img src="{{ "/assets/images/morphology" | relative_url }}/{{ variant.reference }}_{{ variant.variant }}_dots.png" />
+        {% capture plot%}cell-painting/{{ variant.variant }}_matrices{% endcapture %}
+        {% include plot.html plot=plot %}
+        {% capture plot%}cell-painting/{{ variant.variant }}_dots{% endcapture %}
+        {% include plot.html plot=plot %}
     </div>
     {% if variant.l1k_class %}
     <div id="l1000" class="col s12">
-        <img src="{{ "/assets/images/expression" | relative_url }}/{{ variant.reference }}_{{ variant.variant }}_matrices.png" />
-        <img src="{{ "/assets/images/expression" | relative_url }}/{{ variant.reference }}_{{ variant.variant }}_dots.png" />
+        {% capture plot%}l1k/{{ variant.variant }}_matrices{% endcapture %}
+        {% include plot.html plot=plot %}
+        {% capture plot%}l1k/{{ variant.variant }}_dots{% endcapture %}
+        {% include plot.html plot=plot %}
     </div>
     {% endif %}
     <div id="single-cell" class="col s12">
@@ -69,7 +73,9 @@ L1000 data not available
       <img src="{{ "/assets/images/single-cell" | relative_url }}/{{ variant.variant }}_venn.png" />
     </div>
 </div>
-<img src="{{ "/assets/images/sparkler" | relative_url }}/{{ variant.gene }}.png" />
+
+{% capture plot%}sparkler/{{ variant.gene }}{% endcapture %}
+{% include plot.html plot=plot %}
 
 <script>
  $(document).ready(function(){

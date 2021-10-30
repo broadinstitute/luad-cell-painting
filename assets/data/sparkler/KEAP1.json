@@ -1,0 +1,2572 @@
+{
+  "data": [
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": true,
+      "text": [
+        "",
+        "A159P"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        3.4453548225980275
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -2.4071249121610996
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "Y141F"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        2.3867073442123785
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -1.7964270020722806
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "NT",
+      "marker": {
+        "color": "gray"
+      },
+      "mode": "lines+markers+text",
+      "name": "NT",
+      "showlegend": true,
+      "text": [
+        "",
+        "V155A"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        0.9442229209039487
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        1.3349196197721658
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "R260L"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        4.496592005208801
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -2.417483694306363
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "COF",
+      "marker": {
+        "color": "darkorchid"
+      },
+      "mode": "lines+markers+text",
+      "name": "COF",
+      "showlegend": true,
+      "text": [
+        "",
+        "R272P"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        2.5007635941489763
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -0.21971686465706408
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "NT",
+      "marker": {
+        "color": "gray"
+      },
+      "mode": "lines+markers+text",
+      "name": "NT",
+      "showlegend": false,
+      "text": [
+        "",
+        "S102L"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        0.8013874048822746
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -0.020324819415919626
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "S102L"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        3.246321001831604
+      ],
+      "xaxis": "x2",
+      "y": [
+        0,
+        -2.3866490466190826
+      ],
+      "yaxis": "y2"
+    },
+    {
+      "legendgroup": "NT",
+      "marker": {
+        "color": "gray"
+      },
+      "mode": "lines+markers+text",
+      "name": "NT",
+      "showlegend": false,
+      "text": [
+        "",
+        "S144F"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        0.4839499743165888
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        0.6445661050048733
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "NT",
+      "marker": {
+        "color": "gray"
+      },
+      "mode": "lines+markers+text",
+      "name": "NT",
+      "showlegend": false,
+      "text": [
+        "",
+        "S144F"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        1.1574388982822421
+      ],
+      "xaxis": "x2",
+      "y": [
+        0,
+        -0.9895534538363634
+      ],
+      "yaxis": "y2"
+    },
+    {
+      "legendgroup": "COF",
+      "marker": {
+        "color": "darkorchid"
+      },
+      "mode": "lines+markers+text",
+      "name": "COF",
+      "showlegend": false,
+      "text": [
+        "",
+        "R320M"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        1.3442105092007774
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -0.18481324365800167
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "COF",
+      "marker": {
+        "color": "darkorchid"
+      },
+      "mode": "lines+markers+text",
+      "name": "COF",
+      "showlegend": false,
+      "text": [
+        "",
+        "G524C"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        1.6861232008978526
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -0.9086435103305732
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "G524C"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        3.835288656292687
+      ],
+      "xaxis": "x2",
+      "y": [
+        0,
+        -2.393242427838081
+      ],
+      "yaxis": "y2"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "W497L"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        2.312486160292717
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -1.7292882419193498
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "COF",
+      "marker": {
+        "color": "darkorchid"
+      },
+      "mode": "lines+markers+text",
+      "name": "COF",
+      "showlegend": false,
+      "text": [
+        "",
+        "V99L"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        1.8107023720936162
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -0.429941787064147
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "G417E"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        3.4470538202894723
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -2.5270748762799378
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "L100P"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        2.9257957705015833
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -1.6950229504445258
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "NT",
+      "marker": {
+        "color": "gray"
+      },
+      "mode": "lines+markers+text",
+      "name": "NT",
+      "showlegend": false,
+      "text": [
+        "",
+        "R272H"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        0.7885505176383961
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        1.1393893929237322
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "NT",
+      "marker": {
+        "color": "gray"
+      },
+      "mode": "lines+markers+text",
+      "name": "NT",
+      "showlegend": false,
+      "text": [
+        "",
+        "R261P"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        0.5846010469096317
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -0.09682101704560729
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "I461V"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        1.897028990464082
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -1.425141876339266
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "COF",
+      "marker": {
+        "color": "darkorchid"
+      },
+      "mode": "lines+markers+text",
+      "name": "COF",
+      "showlegend": false,
+      "text": [
+        "",
+        "A191T"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        1.6782994857102074
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -0.09909854559756134
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "COF",
+      "marker": {
+        "color": "darkorchid"
+      },
+      "mode": "lines+markers+text",
+      "name": "COF",
+      "showlegend": false,
+      "text": [
+        "",
+        "F139L"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        1.8070709484091771
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        0.2661011109045548
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "NT",
+      "marker": {
+        "color": "gray"
+      },
+      "mode": "lines+markers+text",
+      "name": "NT",
+      "showlegend": false,
+      "text": [
+        "",
+        "E611D"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        0.23174393556456344
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        0.10666441880282301
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "E611D"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        1.9806555498893337
+      ],
+      "xaxis": "x2",
+      "y": [
+        0,
+        -1.6520892353496366
+      ],
+      "yaxis": "y2"
+    },
+    {
+      "legendgroup": "NT",
+      "marker": {
+        "color": "gray"
+      },
+      "mode": "lines+markers+text",
+      "name": "NT",
+      "showlegend": false,
+      "text": [
+        "",
+        "D479G"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        0.34968352824497106
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -0.3795321912219979
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "D479G"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        3.2430950256391085
+      ],
+      "xaxis": "x2",
+      "y": [
+        0,
+        -2.349581734920392
+      ],
+      "yaxis": "y2"
+    },
+    {
+      "legendgroup": "NT",
+      "marker": {
+        "color": "gray"
+      },
+      "mode": "lines+markers+text",
+      "name": "NT",
+      "showlegend": false,
+      "text": [
+        "",
+        "G333S"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        0.08245334278400594
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        0.0820197984795013
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "NT",
+      "marker": {
+        "color": "gray"
+      },
+      "mode": "lines+markers+text",
+      "name": "NT",
+      "showlegend": false,
+      "text": [
+        "",
+        "F246L"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        0.5276478647712446
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -0.01981445407384961
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "COF",
+      "marker": {
+        "color": "darkorchid"
+      },
+      "mode": "lines+markers+text",
+      "name": "COF",
+      "showlegend": false,
+      "text": [
+        "",
+        "R415C"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        2.832760359744796
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -0.47625666727388966
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "N397del"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        2.8436964197126144
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -2.2443272748997614
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "P278R"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        3.286172912356535
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -1.8947325191937172
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "G333C"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        2.327509094906734
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -1.6394437020137762
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "G333C"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        4.239479010553377
+      ],
+      "xaxis": "x2",
+      "y": [
+        0,
+        -2.5487872770922695
+      ],
+      "yaxis": "y2"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "G603W"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        4.346490766159353
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -2.060615969585659
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "G603W"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        3.5999143485143
+      ],
+      "xaxis": "x2",
+      "y": [
+        0,
+        -2.3830277453678645
+      ],
+      "yaxis": "y2"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "R470H"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        2.429283205867225
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -1.8435304751680552
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "R470H"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        3.5500294758008746
+      ],
+      "xaxis": "x2",
+      "y": [
+        0,
+        -2.4820016094191377
+      ],
+      "yaxis": "y2"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "R470C"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        2.0759253060933944
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -1.4682028000648712
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "M503K"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        2.0850644612663194
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -1.4891596025349427
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "R460G"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        2.9257957705015833
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -1.962791158148931
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "NT",
+      "marker": {
+        "color": "gray"
+      },
+      "mode": "lines+markers+text",
+      "name": "NT",
+      "showlegend": false,
+      "text": [
+        "",
+        "R470S"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        0.7806582431629302
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        0.18366785992691398
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "R470S"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        3.713790715393858
+      ],
+      "xaxis": "x2",
+      "y": [
+        0,
+        -2.3839175395160437
+      ],
+      "yaxis": "y2"
+    },
+    {
+      "legendgroup": "NT",
+      "marker": {
+        "color": "gray"
+      },
+      "mode": "lines+markers+text",
+      "name": "NT",
+      "showlegend": false,
+      "text": [
+        "",
+        "P278S"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        1.097062485880102
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -0.700767088463231
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "P278S"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        4.060982979900479
+      ],
+      "xaxis": "x2",
+      "y": [
+        0,
+        -2.3723202502447913
+      ],
+      "yaxis": "y2"
+    },
+    {
+      "legendgroup": "NT",
+      "marker": {
+        "color": "gray"
+      },
+      "mode": "lines+markers+text",
+      "name": "NT",
+      "showlegend": false,
+      "text": [
+        "",
+        "R320P"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        0.8717796139945845
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -0.11729130782644734
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "GOF",
+      "marker": {
+        "color": "red"
+      },
+      "mode": "lines+markers+text",
+      "name": "GOF",
+      "showlegend": true,
+      "text": [
+        "",
+        "Q284L"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        2.011316947765329
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        1.4947598202180252
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "NT",
+      "marker": {
+        "color": "gray"
+      },
+      "mode": "lines+markers+text",
+      "name": "NT",
+      "showlegend": false,
+      "text": [
+        "",
+        "E218V"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        0.6744961889417393
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        0.2809403787060613
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "G417R"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        3.5748739903272773
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -2.438408418366101
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "G417R"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        3.601612385834301
+      ],
+      "xaxis": "x2",
+      "y": [
+        0,
+        -2.4832439096029004
+      ],
+      "yaxis": "y2"
+    },
+    {
+      "legendgroup": "COF",
+      "marker": {
+        "color": "darkorchid"
+      },
+      "mode": "lines+markers+text",
+      "name": "COF",
+      "showlegend": false,
+      "text": [
+        "",
+        "D389Y"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        1.8261563276576611
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        0.021240185035582546
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "D389Y"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        3.5587992353958695
+      ],
+      "xaxis": "x2",
+      "y": [
+        0,
+        -2.4090182332135015
+      ],
+      "yaxis": "y2"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "R204P"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        1.7985486341145915
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -1.4690380330063744
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "R204P"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        3.51092322998418
+      ],
+      "xaxis": "x2",
+      "y": [
+        0,
+        -2.4222860796737065
+      ],
+      "yaxis": "y2"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "T142M"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        3.386021114108372
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -2.503826793684272
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "T142M"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        3.6819692168219023
+      ],
+      "xaxis": "x2",
+      "y": [
+        0,
+        -2.48718573673391
+      ],
+      "yaxis": "y2"
+    },
+    {
+      "legendgroup": "NT",
+      "marker": {
+        "color": "gray"
+      },
+      "mode": "lines+markers+text",
+      "name": "NT",
+      "showlegend": false,
+      "text": [
+        "",
+        "M110I"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        0.920019137960176
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -0.4880618903517733
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "NT",
+      "marker": {
+        "color": "gray"
+      },
+      "mode": "lines+markers+text",
+      "name": "NT",
+      "showlegend": false,
+      "text": [
+        "",
+        "G364C"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        0.05704517223460128
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        0.088834416720961
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "G480W"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        4.217251973936869
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -2.404363508077486
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "F280Y"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        4.462784546270759
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -2.0075643785779294
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "COF",
+      "marker": {
+        "color": "darkorchid"
+      },
+      "mode": "lines+markers+text",
+      "name": "COF",
+      "showlegend": false,
+      "text": [
+        "",
+        "L268P"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        3.102952745549542
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -0.28228128110830586
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "L268P"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        3.5500294758008746
+      ],
+      "xaxis": "x2",
+      "y": [
+        0,
+        -2.3982444592332777
+      ],
+      "yaxis": "y2"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "R601W"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        3.4555374584953658
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -2.5377394821124364
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "R601W"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        3.873567613294804
+      ],
+      "xaxis": "x2",
+      "y": [
+        0,
+        -2.3922426984184484
+      ],
+      "yaxis": "y2"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "G419W"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        3.5396673988976812
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -2.408910088924788
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "E117K"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        3.678484120161695
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -2.3967356258371977
+      ],
+      "yaxis": "y"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "E117K"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        3.6819692168219023
+      ],
+      "xaxis": "x2",
+      "y": [
+        0,
+        -2.445200590438602
+      ],
+      "yaxis": "y2"
+    },
+    {
+      "legendgroup": "LOF",
+      "marker": {
+        "color": "dodgerblue"
+      },
+      "mode": "lines+markers+text",
+      "name": "LOF",
+      "showlegend": false,
+      "text": [
+        "",
+        "H96L"
+      ],
+      "textposition": "top right",
+      "type": "scatter",
+      "x": [
+        0,
+        2.4948003112039734
+      ],
+      "xaxis": "x",
+      "y": [
+        0,
+        -1.6254622118485984
+      ],
+      "yaxis": "y"
+    }
+  ],
+  "layout": {
+    "annotations": [
+      {
+        "font": {
+          "size": 16
+        },
+        "showarrow": false,
+        "text": "Cell Painting",
+        "x": 0.225,
+        "xanchor": "center",
+        "xref": "paper",
+        "y": 1.0,
+        "yanchor": "bottom",
+        "yref": "paper"
+      },
+      {
+        "font": {
+          "size": 16
+        },
+        "showarrow": false,
+        "text": "L1000",
+        "x": 0.775,
+        "xanchor": "center",
+        "xref": "paper",
+        "y": 1.0,
+        "yanchor": "bottom",
+        "yref": "paper"
+      }
+    ],
+    "font": {
+      "size": 20
+    },
+    "height": 400,
+    "margin": {
+      "b": 0,
+      "l": 0,
+      "r": 0,
+      "t": 80
+    },
+    "showlegend": false,
+    "template": {
+      "data": {
+        "bar": [
+          {
+            "error_x": {
+              "color": "#2a3f5f"
+            },
+            "error_y": {
+              "color": "#2a3f5f"
+            },
+            "marker": {
+              "line": {
+                "color": "#E5ECF6",
+                "width": 0.5
+              },
+              "pattern": {
+                "fillmode": "overlay",
+                "size": 10,
+                "solidity": 0.2
+              }
+            },
+            "type": "bar"
+          }
+        ],
+        "barpolar": [
+          {
+            "marker": {
+              "line": {
+                "color": "#E5ECF6",
+                "width": 0.5
+              },
+              "pattern": {
+                "fillmode": "overlay",
+                "size": 10,
+                "solidity": 0.2
+              }
+            },
+            "type": "barpolar"
+          }
+        ],
+        "carpet": [
+          {
+            "aaxis": {
+              "endlinecolor": "#2a3f5f",
+              "gridcolor": "white",
+              "linecolor": "white",
+              "minorgridcolor": "white",
+              "startlinecolor": "#2a3f5f"
+            },
+            "baxis": {
+              "endlinecolor": "#2a3f5f",
+              "gridcolor": "white",
+              "linecolor": "white",
+              "minorgridcolor": "white",
+              "startlinecolor": "#2a3f5f"
+            },
+            "type": "carpet"
+          }
+        ],
+        "choropleth": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "type": "choropleth"
+          }
+        ],
+        "contour": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "contour"
+          }
+        ],
+        "contourcarpet": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "type": "contourcarpet"
+          }
+        ],
+        "heatmap": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "heatmap"
+          }
+        ],
+        "heatmapgl": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "heatmapgl"
+          }
+        ],
+        "histogram": [
+          {
+            "marker": {
+              "pattern": {
+                "fillmode": "overlay",
+                "size": 10,
+                "solidity": 0.2
+              }
+            },
+            "type": "histogram"
+          }
+        ],
+        "histogram2d": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "histogram2d"
+          }
+        ],
+        "histogram2dcontour": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "histogram2dcontour"
+          }
+        ],
+        "mesh3d": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "type": "mesh3d"
+          }
+        ],
+        "parcoords": [
+          {
+            "line": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "parcoords"
+          }
+        ],
+        "pie": [
+          {
+            "automargin": true,
+            "type": "pie"
+          }
+        ],
+        "scatter": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scatter"
+          }
+        ],
+        "scatter3d": [
+          {
+            "line": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scatter3d"
+          }
+        ],
+        "scattercarpet": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scattercarpet"
+          }
+        ],
+        "scattergeo": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scattergeo"
+          }
+        ],
+        "scattergl": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scattergl"
+          }
+        ],
+        "scattermapbox": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scattermapbox"
+          }
+        ],
+        "scatterpolar": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scatterpolar"
+          }
+        ],
+        "scatterpolargl": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scatterpolargl"
+          }
+        ],
+        "scatterternary": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scatterternary"
+          }
+        ],
+        "surface": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "surface"
+          }
+        ],
+        "table": [
+          {
+            "cells": {
+              "fill": {
+                "color": "#EBF0F8"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "header": {
+              "fill": {
+                "color": "#C8D4E3"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "type": "table"
+          }
+        ]
+      },
+      "layout": {
+        "annotationdefaults": {
+          "arrowcolor": "#2a3f5f",
+          "arrowhead": 0,
+          "arrowwidth": 1
+        },
+        "autotypenumbers": "strict",
+        "coloraxis": {
+          "colorbar": {
+            "outlinewidth": 0,
+            "ticks": ""
+          }
+        },
+        "colorscale": {
+          "diverging": [
+            [
+              0,
+              "#8e0152"
+            ],
+            [
+              0.1,
+              "#c51b7d"
+            ],
+            [
+              0.2,
+              "#de77ae"
+            ],
+            [
+              0.3,
+              "#f1b6da"
+            ],
+            [
+              0.4,
+              "#fde0ef"
+            ],
+            [
+              0.5,
+              "#f7f7f7"
+            ],
+            [
+              0.6,
+              "#e6f5d0"
+            ],
+            [
+              0.7,
+              "#b8e186"
+            ],
+            [
+              0.8,
+              "#7fbc41"
+            ],
+            [
+              0.9,
+              "#4d9221"
+            ],
+            [
+              1,
+              "#276419"
+            ]
+          ],
+          "sequential": [
+            [
+              0.0,
+              "#0d0887"
+            ],
+            [
+              0.1111111111111111,
+              "#46039f"
+            ],
+            [
+              0.2222222222222222,
+              "#7201a8"
+            ],
+            [
+              0.3333333333333333,
+              "#9c179e"
+            ],
+            [
+              0.4444444444444444,
+              "#bd3786"
+            ],
+            [
+              0.5555555555555556,
+              "#d8576b"
+            ],
+            [
+              0.6666666666666666,
+              "#ed7953"
+            ],
+            [
+              0.7777777777777778,
+              "#fb9f3a"
+            ],
+            [
+              0.8888888888888888,
+              "#fdca26"
+            ],
+            [
+              1.0,
+              "#f0f921"
+            ]
+          ],
+          "sequentialminus": [
+            [
+              0.0,
+              "#0d0887"
+            ],
+            [
+              0.1111111111111111,
+              "#46039f"
+            ],
+            [
+              0.2222222222222222,
+              "#7201a8"
+            ],
+            [
+              0.3333333333333333,
+              "#9c179e"
+            ],
+            [
+              0.4444444444444444,
+              "#bd3786"
+            ],
+            [
+              0.5555555555555556,
+              "#d8576b"
+            ],
+            [
+              0.6666666666666666,
+              "#ed7953"
+            ],
+            [
+              0.7777777777777778,
+              "#fb9f3a"
+            ],
+            [
+              0.8888888888888888,
+              "#fdca26"
+            ],
+            [
+              1.0,
+              "#f0f921"
+            ]
+          ]
+        },
+        "colorway": [
+          "#636efa",
+          "#EF553B",
+          "#00cc96",
+          "#ab63fa",
+          "#FFA15A",
+          "#19d3f3",
+          "#FF6692",
+          "#B6E880",
+          "#FF97FF",
+          "#FECB52"
+        ],
+        "font": {
+          "color": "#2a3f5f"
+        },
+        "geo": {
+          "bgcolor": "white",
+          "lakecolor": "white",
+          "landcolor": "#E5ECF6",
+          "showlakes": true,
+          "showland": true,
+          "subunitcolor": "white"
+        },
+        "hoverlabel": {
+          "align": "left"
+        },
+        "hovermode": "closest",
+        "mapbox": {
+          "style": "light"
+        },
+        "paper_bgcolor": "white",
+        "plot_bgcolor": "#E5ECF6",
+        "polar": {
+          "angularaxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          },
+          "bgcolor": "#E5ECF6",
+          "radialaxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          }
+        },
+        "scene": {
+          "xaxis": {
+            "backgroundcolor": "#E5ECF6",
+            "gridcolor": "white",
+            "gridwidth": 2,
+            "linecolor": "white",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "white"
+          },
+          "yaxis": {
+            "backgroundcolor": "#E5ECF6",
+            "gridcolor": "white",
+            "gridwidth": 2,
+            "linecolor": "white",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "white"
+          },
+          "zaxis": {
+            "backgroundcolor": "#E5ECF6",
+            "gridcolor": "white",
+            "gridwidth": 2,
+            "linecolor": "white",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "white"
+          }
+        },
+        "shapedefaults": {
+          "line": {
+            "color": "#2a3f5f"
+          }
+        },
+        "ternary": {
+          "aaxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          },
+          "baxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          },
+          "bgcolor": "#E5ECF6",
+          "caxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          }
+        },
+        "title": {
+          "x": 0.05
+        },
+        "xaxis": {
+          "automargin": true,
+          "gridcolor": "white",
+          "linecolor": "white",
+          "ticks": "",
+          "title": {
+            "standoff": 15
+          },
+          "zerolinecolor": "white",
+          "zerolinewidth": 2
+        },
+        "yaxis": {
+          "automargin": true,
+          "gridcolor": "white",
+          "linecolor": "white",
+          "ticks": "",
+          "title": {
+            "standoff": 15
+          },
+          "zerolinecolor": "white",
+          "zerolinewidth": 2
+        }
+      }
+    },
+    "title": {
+      "text": "Sparkler plot KEAP1"
+    },
+    "width": 700,
+    "xaxis": {
+      "anchor": "y",
+      "domain": [
+        0.0,
+        0.45
+      ],
+      "range": [
+        -0.49753241771645795,
+        6.996592005208801
+      ],
+      "title": {
+        "text": "-log(p-impact)"
+      }
+    },
+    "xaxis2": {
+      "anchor": "y2",
+      "domain": [
+        0.55,
+        1.0
+      ],
+      "range": [
+        -0.49753241771645795,
+        6.996592005208801
+      ],
+      "title": {
+        "text": "-log(p-impact)"
+      }
+    },
+    "yaxis": {
+      "anchor": "x",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "range": [
+        -4.061643808085849,
+        4.265821802558062
+      ],
+      "title": {
+        "text": "Norm directionality"
+      }
+    },
+    "yaxis2": {
+      "anchor": "x2",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "range": [
+        -4.061643808085849,
+        4.265821802558062
+      ],
+      "title": {
+        "text": ""
+      }
+    }
+  }
+}

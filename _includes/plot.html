@@ -1,4 +1,5 @@
+{% capture data_url %}{{ "/assets/data/" | relative_url }}/{{ include.plot }}.json{% endcapture %}
 <div id="{{ include.plot }}"></div>
 <script>
-    render_plot('{{ include.plot }}');
+    render_plot('{{ data_url }}', '{{ include.plot }}');
 </script>
