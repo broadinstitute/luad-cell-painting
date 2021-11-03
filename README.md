@@ -11,7 +11,7 @@ This folder is a DeepProfiler project. Follow the [Quick
 Guide](https://github.com/cytomining/DeepProfiler/tree/c91b9d821a37d90583d19d209be2e53fe3f08d8d#quick-guide)
 to install DeepProfiler.
 
-Note: Experiments reported in the paper used the c91b9d8 commit.
+Note: Experiments reported in the paper used the `c91b9d8` commit.
 
 ### 2. Download the data
 
