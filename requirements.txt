@@ -1,0 +1,1 @@
+git+git://github.com/cytomining/DeepProfiler@c91b9d8#egg=deepprofiler
