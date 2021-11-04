@@ -37,12 +37,6 @@ $ python3 -m deepprofiler --root=./ --config luad.json --gpu 0 prepare
 
 ### 4. Extract features.
 
-TODO: Add link to `efficientnet-b0_weights_tf_dim_ordering_tf_kernels_autoaugment.h5`
-
-copy your pretrained model `efficientnet-b0_weights_tf_dim_ordering_tf_kernels_autoaugment.h5`
-to the `outputs/efn_pretrained/checkpoint` folder.
-
-
 Use DeepProfiler to extract features:
 
 ```bash
