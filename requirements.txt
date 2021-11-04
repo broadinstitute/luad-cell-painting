@@ -9,4 +9,4 @@ pyarrow==6.0.*
 kaleido==0.2.*
 umap-learn==0.5.*
 openpyxl==3.0.*
-git+git://github.com/cytomining/DeepProfiler@c91b9d8#egg=deepprofiler
+-e git+git://github.com/cytomining/DeepProfiler@c91b9d8#egg=deepprofiler

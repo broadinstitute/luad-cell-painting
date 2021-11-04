@@ -7,11 +7,15 @@ dataset.
 
 ### 1. Install requirements
 
-This folder is a DeepProfiler project. Follow the [Quick
-Guide](https://github.com/cytomining/DeepProfiler/tree/c91b9d821a37d90583d19d209be2e53fe3f08d8d#quick-guide)
-to install DeepProfiler.
+This folder is a [DeepProfiler](https://github.com/cytomining/DeepProfiler)
+project.  Experiments reported in the paper used the
+[`c91b9d8`](https://github.com/cytomining/DeepProfiler/tree/c91b9d821a37d90583d19d209be2e53fe3f08d8d#quick-guide)
+commit.
 
-Note: Experiments reported in the paper used the `c91b9d8` commit.
+To install the dependencies, including the DeepProfiler version we used, run:
+```bash
+$ pip install -r requirements.txt
+```
 
 ### 2. Download the data
 
