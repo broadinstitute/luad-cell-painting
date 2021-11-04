@@ -2,7 +2,7 @@
     "dataset": {
         "metadata": {
             "label_field": "Allele",
-            "control_value": "DMSO_0.0"
+            "control_value": "EMPTY"
         },
         "images": {
             "channels": [
