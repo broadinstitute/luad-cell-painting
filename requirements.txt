@@ -4,4 +4,6 @@ notebook==6.4.*
 plotly==5.3.*
 tqdm==4.62.*
 statsmodels==0.13.*
+pyarrow==6.0.*
+kaleido==0.2.*
 git+git://github.com/cytomining/DeepProfiler@c91b9d8#egg=deepprofiler

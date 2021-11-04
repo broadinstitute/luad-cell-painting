@@ -3,7 +3,7 @@
 This repository contains the source code to run the cmVIP analysis in the LUAD
 dataset.
 
-## Steps to reproduce
+## Profiling
 
 ### 1. Install requirements
 
