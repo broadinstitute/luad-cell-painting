@@ -59,3 +59,9 @@ $ python3 utils/create_profiles.py
 
 It will write a `pd.DataFrame` in parquet with profiles.
 
+## VIP analysis
+
+The analysis is split in three notebooks:
+ - [1-Expression-VIP.ipynb](1-Expression-VIP.ipynb): Run the baseline analysis using L1000 profiling.
+ - [2-Cell-Morphology-VIP.ipynb](2-Cell-Morphology-VIP.ipynb): Run the Cell Morphology VIP method.
+ - [3-Aggregation-plots.ipynb](3-Aggregation-plots.ipynb): Create the plots summarizing results.
