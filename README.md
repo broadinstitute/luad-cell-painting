@@ -59,3 +59,13 @@ The analysis is split in three notebooks:
  - [1-Expression-VIP.ipynb](1-Expression-VIP.ipynb): Run the baseline analysis using L1000 profiling.
  - [2-Cell-Morphology-VIP.ipynb](2-Cell-Morphology-VIP.ipynb): Run the Cell Morphology VIP method.
  - [3-Aggregation-plots.ipynb](3-Aggregation-plots.ipynb): Create the plots summarizing results.
+
+## Notes about the dataset
+
+From the paper: 
+> An additional 158 constructs are included in the dataset, representing alleles that inadvertently had double mutations, or were similar to the ones selected except in the presence of an epitope tag. These additional alleles have been included in the dataset for completeness.
+
+We have filtered out these constructs in Cell 5 in this notebook
+https://github.com/broadinstitute/luad-cell-painting/blob/main/2-Cell-Morphology-VIP.ipynb
+_TODO: Replace with [permalink](https://docs.github.com/en/repositories/working-with-files/using-files/getting-permanent-links-to-files)_
+
