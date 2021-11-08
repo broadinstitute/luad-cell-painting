@@ -10,8 +10,9 @@ if [ "$CONT" != "yes" ]; then
   exit 0
 fi
 rootpath=$(dirname $0)/..
-echo "Downloading Metadata data..."
-aws s3 sync s3://cytodata/datasets/LUAD-BBBC043-Caicedo/metadata/LUAD-BBBC043-Caicedo/ $rootpath/inputs/metadata/cytodata --no-sign-request
+# Metadata is now included in the repo.
+# echo "Downloading Metadata data..."
+# aws s3 sync s3://cytodata/datasets/LUAD-BBBC043-Caicedo/metadata/LUAD-BBBC043-Caicedo/ $rootpath/inputs/metadata/cytodata --no-sign-request
 echo "Downloading TIF Images data..."
 aws s3 sync s3://cytodata/datasets/LUAD-BBBC043-Caicedo/images/LUAD-BBBC043-Caicedo/ $rootpath/inputs/images/ --no-sign-request
 echo "Downloading SQLite data..."
