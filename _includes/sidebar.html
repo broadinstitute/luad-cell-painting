@@ -1,3 +1,6 @@
+<div class="input-field col s12">
+  <input type="text" id="autocomplete-input" class="autocomplete", placeholder="Find a variant...">
+</div>
 <ul class="collapsible">
     {% for gene in site.data.navigation %}
     <li class="{% if page.url contains gene.name %}active{% endif %}">
@@ -19,5 +22,18 @@
 $(document).ready(function(){
     $('.collapsible').collapsible();
   });
-
+$(document).ready(function(){
+    $('input.autocomplete').autocomplete({
+      data: {
+    {% for gene in site.data.navigation %}
+        {% for variant in gene.variants %}
+        "{{ variant.name }}": null,
+        {% endfor %}
+    {% endfor %}
+          },
+      onAutocomplete: () => {
+        location.href = "{{ "/variants/" | relative_url }}" + $('#autocomplete-input')[0].value
+      }
+    });
+  });
 </script>
