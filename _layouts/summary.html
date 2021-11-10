@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<h2>{{ page.title }}</h2>
+<p class="flow-text">
+{{ page.description }}
+</p>
+{% if page.plot %}
+{% include plot.html plot=page.plot %}
+{% endif %}
+{{ content }}
