@@ -46,36 +46,89 @@ L1000 data not available
 <div class="row">
     <div class="col s12">
       <ul class="tabs">
-        <li class="tab col s4"><a class="active" href="#cell-painting">Cell Painting</a></li>
+        <li class="tab col s3"><a class="active" href="#cell-painting">Cell Painting</a></li>
         {% if variant.l1k_class %}
-        <li class="tab col s4"><a href="#l1000">L1000</a></li>
+        <li class="tab col s3"><a href="#l1000">L1000</a></li>
         {% endif %}
-        <li class="tab col s4"><a href="#single-cell">Single Cell</a></li>
+        <li class="tab col s3"><a href="#single-cell">Single Cell</a></li>
+        <li class="tab col s3"><a href="#sparkler">Sparkler</a></li>
       </ul>
     </div>
     <div id="cell-painting" class="col s12">
-        {% capture plot%}cell-painting/{{ variant.variant }}_matrices{% endcapture %}
-        {% include plot.html plot=plot %}
-        {% capture plot%}cell-painting/{{ variant.variant }}_dots{% endcapture %}
-        {% include plot.html plot=plot %}
+      <p class="flow-text">
+        These matrices show how similar the replicates of each pair are
+        (reference gene self-correlation, reference-variant cross-correlation,
+        and variant self-correlation). The correlation matrix colors represent
+        the correlation values in the range from -0.2 to 1.0.
+      </p>
+      {% capture plot%}cell-painting/{{ variant.variant }}_matrices{% endcapture %}
+      {% include plot.html plot=plot %}
+      <p class="flow-text">
+        The box plots show the distribution of median values of the matrices’
+        rows (self-correlation) and columns (cross-correlation).
+      </p>
+      {% capture plot%}cell-painting/{{ variant.variant }}_dots{% endcapture %}
+      {% include plot.html plot=plot %}
     </div>
     {% if variant.l1k_class %}
     <div id="l1000" class="col s12">
-        {% capture plot%}l1k/{{ variant.variant }}_matrices{% endcapture %}
-        {% include plot.html plot=plot %}
-        {% capture plot%}l1k/{{ variant.variant }}_dots{% endcapture %}
-        {% include plot.html plot=plot %}
+      <p class="flow-text">
+        These matrices show how similar the replicates of each pair are
+        (reference gene self-correlation, reference-variant cross-correlation,
+        and variant self-correlation). The correlation matrix colors represent
+        the correlation values in the range from -0.2 to 1.0.
+      </p>
+      {% capture plot%}l1k/{{ variant.variant }}_matrices{% endcapture %}
+      {% include plot.html plot=plot %}
+      <p class="flow-text">
+        The box plots show the distribution of median values of the matrices’
+        rows (self-correlation) and columns (cross-correlation).
+      </p>
+      {% capture plot%}l1k/{{ variant.variant }}_dots{% endcapture %}
+      {% include plot.html plot=plot %}
     </div>
     {% endif %}
     <div id="single-cell" class="col s12">
+      <h4>UMAP projection — Phenotypes</h4>
+      <p class="flow-text">
+        The axes are the first two UMAP coordinates. Each point represents a single
+        cell and the color corresponds to the treatment status (control cells in blue,
+        reference gene cells in green, and variant cells in orange).
+      </p>
       <img src="{{ "/assets/images/single-cell" | relative_url }}/{{ variant.variant }}_allele.png" />
+      <h4>UMAP projection — Plates</h4>
+      <p class="flow-text">
+        Same UMAP projection as above, but each cell is colored according to
+        the plate where the replicate comes from (legend numbers indicate plate
+        numbers). Ideally, colors should be well integrated (random coloring
+        patterns) indicating that the feature space is not dominated by
+        technical artifacts.
+      </p>
       <img src="{{ "/assets/images/single-cell" | relative_url }}/{{ variant.variant }}_plate.png" />
+      <h4>Phenotypic overlap in the feature space</h4>
+      <p class="flow-text">
+        Each single cell in the sample visualized above was classified as
+        having one of 7 potential phenotypes (according to the perturbation
+        status of the nearest neighbors in the connectivity graph): 1) pure
+        reference gene, 2) pure variant, 3) pure control, 4) shared
+        reference-variant, 5) shared reference-control, 6) shared
+        variant-control, 7) mixed of all. With these classifications, we
+        quantify how much phenotypic similarities the populations of cells have
+        in common, which is represented in the Venn diagram
+      </p>
       <img src="{{ "/assets/images/single-cell" | relative_url }}/{{ variant.variant }}_venn.png" />
     </div>
+    <div id="sparkler" class="col s12">
+      <p class="flow-text">
+        Display the magnitude and directionality of predictions for all alleles
+        in a gene set. The x-axis represents the negative log p-value of the
+        impact test (the larger the more impactful), and the y-axis represents
+        the log p-value of the directionality test polarized by the result of
+        the strength test.
+      </p>
+      {% capture plot%}sparkler/{{ variant.gene }}{% endcapture %}
+      {% include plot.html plot=plot %}
 </div>
-
-{% capture plot%}sparkler/{{ variant.gene }}{% endcapture %}
-{% include plot.html plot=plot %}
 
 <script>
  $(document).ready(function(){
