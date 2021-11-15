@@ -8,28 +8,47 @@ Cathy L. Hartland, Xiaoyun Wu, Angela N. Brooks, Alice H. Berger, Jesse S. Boehm
 
 <h3>What is this about?</h3>
 <p class="flow-text">
-The goal of this project was to characterize the phenotypic impact of lung
-cancer variants using imaging. We collected Cell Painting images of A549 cells
-for 325 overexpression constructs of variants across 50 reference genes in a
-high-throughput experiment. Then, we used image-based profiling to transform
-the <a href="https://www.nature.com/articles/nprot.2016.105">Cell Painting</a>
-images into cell morphology data that can be analyzed to identify phenotypic
-differences in an unbiased way. Next, we adapted the Variant Impact Phenotyping
-(<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5003022/">VIP</a> and <a
+Clinical sequencing uncovers many variants of unknown significance, especially
+in cancer, leaving doctors stuck. We show that cell morphology一specifically,
+images of cells stained for various organelles through the Cell Painting
+assay一contains sufficient information to determine the impact of many variants
+on many genes’ functions.
+
+We collected Cell Painting images of A549 cells for 325 overexpression
+constructs of variants found in lung adenocarcinoma (LUAD) across 50 reference
+genes in a high-throughput experiment. Then, we used image-based profiling to
+transform the <a href="https://www.nature.com/articles/nprot.2016.105">Cell
+Painting</a> images into cell morphology data that can be analyzed to identify
+phenotypic differences in an unbiased way. Next, we adapted the Variant Impact
+Phenotyping (<a
+href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5003022/">VIP</a> and <a
 href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009132">VIP2</a>)
 algorithm to make predictions using the cell morphology data; we call it cell
 morphology-based VIP (cmVIP) .  Finally, we conducted various data analyses to
 validate and compare the Cell Painting predictions with transcriptional
-profiling (L1000).
+profiling (<a href="https://pubmed.ncbi.nlm.nih.gov/29195078/">L1000</a>).
 </p>
 
 <p class="flow-text">
 We found that Cell Painting reveals insights into the phenotypic
-characteristics of cancer variants, which are consistent with transcriptional
-profiling. We created this website to allow researchers to explore the
-predictions and results of most of the analyses performed in our project. This
-website is designed to share all the results obtained in the project in a
-highly interactive way.
+characteristics of cancer variants, which are generally consistent with
+transcriptional profiling. We created this website to allow researchers to
+explore the predictions and results of most of the analyses performed in our
+project. This website is designed to share all the results obtained in the
+project in a highly interactive way.
+</p>
+
+<h3>Resources</h3>
+<ul class="browser-default">
+  <li class="flow-text">Here is a <a href="#">link</a> to the preprint in bioRxiv with more
+      details of this study.</li>
+  <li class="flow-text">The full Cell Painting image collection created for this project can be
+      found <a href="https://registry.opendata.aws/cell-painting-image-collection/">here</a>.</li>
+  <li class="flow-text">This <a
+          href="https://github.com/broadinstitute/luad-cell-painting">GitHub
+          repository</a>contains all the code and instructions to reproduce the
+  analysis presented here.</li>
+</ul>
 </p>
 
 <h3>Instructions</h3>
