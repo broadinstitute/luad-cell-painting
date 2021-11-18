@@ -59,3 +59,10 @@ The analysis is split in three notebooks:
  - [1-Expression-VIP.ipynb](1-Expression-VIP.ipynb): Run the baseline analysis using L1000 profiling.
  - [2-Cell-Morphology-VIP.ipynb](2-Cell-Morphology-VIP.ipynb): Run the Cell Morphology VIP method.
  - [3-Aggregation-plots.ipynb](3-Aggregation-plots.ipynb): Create the plots summarizing results.
+
+## Notes about the dataset
+
+From the paper: 
+>  An additional 88 constructs are included in the dataset, representing TP53 alleles that inadvertently had double mutations. A comprehensive description of the process for selecting the constructs that were analyzed is presented in Supplementary Figure 2.
+
+We have filtered out these constructs in the **Filter quality control status** section of the [2-Cell-Morphology-VIP.ipynb](https://github.com/broadinstitute/luad-cell-painting/blob/763436df8fc3d862a6e04e82d0847767f2378c2f/2-Cell-Morphology-VIP.ipynb) notebook.
