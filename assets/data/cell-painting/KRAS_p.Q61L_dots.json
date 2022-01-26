@@ -6,7 +6,7 @@
       "hovertemplate": "Sample=%{x}<br>Correlation=%{y}<extra></extra>",
       "legendgroup": "REF",
       "marker": {
-        "color": "#2CA02C"
+        "color": "#67A9CF"
       },
       "name": "REF",
       "notched": false,
@@ -100,7 +100,7 @@
       "hovertemplate": "Sample=%{x}<br>Correlation=%{y}<extra></extra>",
       "legendgroup": "VAR",
       "marker": {
-        "color": "#FF7F0E"
+        "color": "#EF8A62"
       },
       "name": "VAR",
       "notched": false,
