@@ -27,7 +27,9 @@ $ utils/download_all.sh
 
 ### 3. Prepare the data.
 
-Use DeepProfiler to prepare the dataset:
+ 1. Run `extract_locations.py` script to generate location files.
+
+ 2. Use DeepProfiler to prepare the dataset:
 
 ```bash
 $ python3 -m deepprofiler --root=./ --config luad.json --gpu 0 prepare
