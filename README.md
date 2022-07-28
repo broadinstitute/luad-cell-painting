@@ -1,7 +1,7 @@
 # LUAD analysis using DeepProfiler
 
 This repository contains the source code to run the cmVIP analysis in the LUAD
-dataset.
+dataset. Our internal repository is [here](https://github.com/broadinstitute/2014_09_09_LUAD_MeyersonLab_AliceBerger_DFCI_multimodal).
 
 ## Profiling
 
